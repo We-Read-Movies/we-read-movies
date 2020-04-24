@@ -1,7 +1,0 @@
-.nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: var(--space-lg) 0;
-    font-family: var(--font-family-heading);
-}

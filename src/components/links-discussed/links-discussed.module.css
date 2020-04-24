@@ -1,7 +1,0 @@
-.links-discussed {
-    /* Word breaking so links don't overflow mobile */
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    word-break: break-word; 
-    hyphens: auto;
-}

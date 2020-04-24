@@ -1,7 +1,0 @@
-/* TODO: move this to a text-meta global class */
-.meta {
-    display: block;
-    font-size: var(--font-size-small);
-    color: var(--color-text-secondary);
-    font-family: var(--font-family-heading);
-}

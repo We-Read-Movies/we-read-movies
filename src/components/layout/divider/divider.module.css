@@ -1,8 +1,0 @@
-.divider {
-    border: 0;
-    height: 1px;
-    /*  update to use color system */
-    background: #ccc;
-    margin: var(--space-xxl) auto;
-    width: 80%;
-}

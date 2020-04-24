@@ -1,6 +1,0 @@
-export default {
-    TWITTER: 'TWITTER',
-    FACEBOOK: 'FACEBOOK',
-    INSTAGRAM: 'INSTAGRAM',
-    ITUNES: 'ITUNES'
-};
