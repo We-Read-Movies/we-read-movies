@@ -115,6 +115,7 @@ SEO.propTypes = {
     lang: string,
     logo: shape({}),
     meta: arrayOf(object),
+    path: string,
     title: string.isRequired
 };
 
