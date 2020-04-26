@@ -47,7 +47,7 @@
     "test": "npm run lint",
     "deploy:stage": "npm run build:prefix && node ./scripts/can-deploy.js && npm run stage:unsafe",
     "deploy:stage:unsafe": "npm run build:prefix && npm run stage:unsafe",
-    "stage:unsafe": "gh-pages -d public -r git@github.com:eahenke/we-read-movies.git",
+    "stage:unsafe": "gh-pages -d public -r git@github.com:eahenke/we-read-movies.git -v *CNAME*",
     "deploy:prod": "npm run build && node ./scripts/can-deploy.js && npm run prod:unsafe",
     "deploy:prod:unsafe": "npm run build && npm run prod:unsafe",
     "prod:unsafe": "gh-pages -d public -b master"
