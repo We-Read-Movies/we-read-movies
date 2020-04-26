@@ -21,7 +21,6 @@ const canRunCurrentBranch = matchBooleanArg(COMMAND_OPTS.CURRENT_BRANCH);
 
 /* Main */
 return Promise.all([gitBranch(), checkIsCleanRepo()]).then(([branch, isClean]) => {
-    console.log(branch, isClean);
     if (branch !== DEPLOYMENT_BRANCH && !canRunCurrentBranch) {
         failWithMessage(
             `You are trying to deploy from a branch other than ${DEPLOYMENT_BRANCH}. If you wish to do this, run with ${COMMAND_OPTS.CURRENT_BRANCH}`
