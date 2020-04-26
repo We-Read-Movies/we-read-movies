@@ -45,8 +45,11 @@
     "start": "npm run develop",
     "serve": "gatsby serve -H 0.0.0.0",
     "test": "npm run lint",
-    "deploy:gh": "npm run build:prefix && node ./scripts/deploy-gh.js",
-    "deploy:gh:unsafe":  "npm run build:prefix && node ./scripts/deploy-gh.js --dirty --current-branch",
-    "deploy:prod": "npm run build && node ./scripts/can-deploy.js && gh-pages -d public -b master"
+    "deploy:stage": "npm run build:prefix && node ./scripts/can-deploy.js && npm run stage:unsafe",
+    "deploy:stage:unsafe": "npm run build:prefix && npm run stage:unsafe",
+    "stage:unsafe": "gh-pages -d public -o staging",
+    "deploy:prod": "npm run build && node ./scripts/can-deploy.js && npm run prod:unsafe",
+    "deploy:prod:unsafe": "npm run build && npm run prod:unsafe",
+    "prod:unsafe": "gh-pages -d public -b master"
   }
 }

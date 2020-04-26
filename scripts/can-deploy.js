@@ -1,13 +1,10 @@
 /* eslint-disable import/no-commonjs */
 /* eslint-disable no-console */
-const ghpages = require('gh-pages');
 const { failWithMessage } = require('./util');
 const { gitBranch, checkIsCleanRepo } = require('./git');
 
 /* CONSTANTS */
-const DEPLOYMENT_BRANCH = 'master';
-const PUBLISH_DIRECTORY = 'public';
-const PUBLISH_BRANCH = 'master';
+const DEPLOYMENT_BRANCH = 'dev';
 
 /* Option parsing */
 const commandArgs = process.argv.slice(2);
