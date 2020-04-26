@@ -14,7 +14,7 @@ const AboutPage = ({ data }) => {
 
     return (
         <PageLayout>
-            <Seo title="About" />
+            <Seo path="/about" title="About" />
             <ContentContainer>
                 <h1>About</h1>
                 <p>

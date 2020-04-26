@@ -15,12 +15,13 @@ import { getFluidImage } from '../../util';
 
 const Episode = ({ data }) => {
     const { name: artistName, url: artistUrl } = data.artistsJson;
-    const { title, num, description, src, date, duration, topics = [], links = [], cover } = data.episodesJson;
+    const { title, num, description, src, date, duration, topics = [], links = [], cover, slug } = data.episodesJson;
     const imageFluid = getFluidImage(cover.image);
+    const path = `/episodes/${slug}`;
 
     return (
         <PageLayout>
-            <Seo description={description} image={imageFluid.src} title={`Episode ${num}: ${title}`} />
+            <Seo description={description} image={imageFluid.src} path={path} title={`Episode ${num}: ${title}`} />
             <ContentContainer>
                 <h1 className={styles.title}>
                     <EpisodeTitle num={num} title={title} />

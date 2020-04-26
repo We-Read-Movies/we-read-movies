@@ -14,7 +14,7 @@ const SubscribePage = ({ data }) => {
 
     return (
         <PageLayout>
-            <Seo title="Subscribe" />
+            <Seo path="/subscribe" title="Subscribe" />
             <h1>Subscribe</h1>
             <div className={styles.platformList}>
                 {publishedPlatforms.map(platform => (

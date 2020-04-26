@@ -11,7 +11,13 @@ import Helmet from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
 import { withLogo } from '../hocs';
 
-function SEO({ description, lang, meta, title, image, logo }) {
+function formatUrl(site, path) {
+    const formattedPath = path[0] === '/' ? path : `/${path}`;
+
+    return `${site}${formattedPath}`;
+}
+
+function SEO({ description, lang, meta, title, image, logo, path = '' }) {
     const { site } = useStaticQuery(
         graphql`
             query {
@@ -20,22 +26,24 @@ function SEO({ description, lang, meta, title, image, logo }) {
                         title
                         description
                         author
+                        siteUrl
                     }
                 }
             }
         `
     );
 
+    const url = formatUrl(site.siteMetadata.siteUrl, path);
     const metaDescription = description || site.siteMetadata.description;
-
     const metaImageSrc = image || logo.src;
+
     const imageMeta = [
         {
             name: 'image',
             content: metaImageSrc
         },
         {
-            name: 'og:image',
+            property: 'og:image',
             content: metaImageSrc
         },
         {
@@ -59,6 +67,10 @@ function SEO({ description, lang, meta, title, image, logo }) {
         {
             property: 'og:type',
             content: 'website'
+        },
+        {
+            property: 'og:url',
+            content: url
         },
         {
             name: 'twitter:card',

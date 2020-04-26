@@ -5,6 +5,7 @@ module.exports = {
         title: 'We Read Movies',
         description: "We don't just watch movies, we read them to filth.",
         author: 'Eric Henke',
+        siteUrl: 'https://wereadmovies.com',
         social: [
             {
                 name: 'FACEBOOK',
