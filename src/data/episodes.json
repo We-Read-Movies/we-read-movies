@@ -53,5 +53,30 @@
             "image": "../images/episode-covers/02-going-down-la-la-land.jpg",
             "artist": "Isabel Anderson"
         }
+    },
+    {
+        "num": 3,
+        "title": "Eating Out",
+        "slug": "eating-out",
+        "description": "This week, we talked about the 2004 \"sex comedy\" Eating Out, which at the time was hailed as gay sexy fun. 2004 was a different time. A time of Blockbuster Video, flip phones, and questionable consent. A time when it was totally cool for men to get laid through trickery. A time when supposed allies were allowed to just make it rain gay slurs. Basically, I'm saying this movie hasn't aged well.",
+        "topics": [
+            "Consent being sexy",
+            "What it meant to be early 2000's attractive ",
+            "Which Doctor Who was the gayest",
+            "Internalized homophobia",
+            "Double dicking"
+        ],
+        "links": [],
+        "date": "April 27, 2020",
+        "duration": "1:31:05",
+        "src": "https://media.zencast.fm/we-read-movies/3.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/03-eating-out.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
