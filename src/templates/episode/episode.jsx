@@ -22,11 +22,11 @@ const Episode = ({ data }) => {
     return (
         <PageLayout>
             <Seo description={description} image={imageFluid.src} path={path} title={`Episode ${num}: ${title}`} />
+            <h1 className={styles.title}>
+                <EpisodeTitle num={num} title={title} />
+            </h1>
+            <EpisodeCover main={true} src={imageFluid} text={artistName} url={artistUrl} />
             <ContentContainer>
-                <h1 className={styles.title}>
-                    <EpisodeTitle num={num} title={title} />
-                </h1>
-                <EpisodeCover main={true} src={imageFluid} text={artistName} url={artistUrl} />
                 <AudioPlayer src={src} />
                 <div className={styles.meta}>
                     <span className={styles.date}>{date}</span>
