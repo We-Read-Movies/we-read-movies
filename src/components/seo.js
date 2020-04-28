@@ -17,7 +17,7 @@ function formatUrl(site, path) {
     return `${site}${formattedPath}`;
 }
 
-function SEO({ description, lang, meta, title, image, logo, path = '' }) {
+function SEO({ description, lang, meta, title, image, logoWide, path = '' }) {
     const { site } = useStaticQuery(
         graphql`
             query {
@@ -33,22 +33,24 @@ function SEO({ description, lang, meta, title, image, logo, path = '' }) {
         `
     );
 
-    const url = formatUrl(site.siteMetadata.siteUrl, path);
+    const { siteUrl } = site.siteMetadata;
+    const url = formatUrl(siteUrl, path);
     const metaDescription = description || site.siteMetadata.description;
-    const metaImageSrc = image || logo.src;
+    const metaImageSrc = image || logoWide.src;
+    const absoluteMetaImageSrc = `${siteUrl}${metaImageSrc}`;
 
     const imageMeta = [
         {
             name: 'image',
-            content: metaImageSrc
+            content: absoluteMetaImageSrc
         },
         {
             property: 'og:image',
-            content: metaImageSrc
+            content: absoluteMetaImageSrc
         },
         {
             name: 'twitter:image',
-            content: metaImageSrc
+            content: absoluteMetaImageSrc
         }
     ];
     const metaData = [
@@ -113,7 +115,7 @@ SEO.propTypes = {
     description: string,
     image: string,
     lang: string,
-    logo: shape({}),
+    logoWide: shape({}),
     meta: arrayOf(object),
     path: string,
     title: string.isRequired
