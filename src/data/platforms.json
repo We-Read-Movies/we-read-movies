@@ -1,18 +1,18 @@
 [
     {
+        "name": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/we-read-movies/id1509861554" 
+    },
+    {
         "name": "Google Podcasts",
         "url": "https://podcasts.google.com/?feed=aHR0cHM6Ly9tZWRpYS56ZW5jYXN0LmZtL3dlLXJlYWQtbW92aWVzL3Jzcw%3D" 
     },
     {
-        "name": "RSS",
-        "url": "https://media.zencast.fm/we-read-movies/rss" 
-    },
-    {
-        "name": "iTunes",
-        "url": "" 
-    },
-    {
         "name": "Spotify",
         "url": "https://open.spotify.com/show/2kNfq9MXsD9Kea9LJHDoA9" 
+    },
+    {
+        "name": "RSS",
+        "url": "https://media.zencast.fm/we-read-movies/rss" 
     }
 ]

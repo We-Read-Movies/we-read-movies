@@ -2,6 +2,7 @@ import React from 'react';
 import Iconfiy from './iconify';
 
 // Iconify
+export const ApplePodcast = props => <Iconfiy name={'applePodcast'} {...props} />;
 export const GooglePodcast = props => <Iconfiy name={'googlePodcast'} {...props} />;
 export const ItunesNote = props => <Iconfiy name={'itunesNote'} {...props} />;
 export const Spotify = props => <Iconfiy name={'spotify'} {...props} />;

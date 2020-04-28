@@ -9,6 +9,7 @@ import itunesNoteIcon from '@iconify/icons-fa-brands/itunes-note';
 import instagramIcon from '@iconify/icons-fa-brands/instagram';
 import facebookIcon from '@iconify/icons-fa-brands/facebook-f';
 import twitterIcon from '@iconify/icons-fa-brands/twitter';
+import podcastIcon from '@iconify/icons-fa/podcast';
 import playCircleIcon from '@iconify/icons-fa/play-circle';
 import pauseCircleIcon from '@iconify/icons-fa/pause-circle';
 import volumeUpIcon from '@iconify/icons-fa-solid/volume-up';
@@ -16,6 +17,7 @@ import volumeMuteIcon from '@iconify/icons-fa-solid/volume-mute';
 
 const SUPPORTED_ICONS = {
     // Brands
+    applePodcast: podcastIcon,
     googlePodcast: googlePodcastIcon,
     spotify: spotifyIcon,
     rss: rssIcon,

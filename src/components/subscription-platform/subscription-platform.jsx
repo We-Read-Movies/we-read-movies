@@ -1,6 +1,6 @@
 import React from 'react';
 import { string } from 'prop-types';
-import { GooglePodcast, ItunesNote, Rss, Spotify } from '../icons';
+import { ApplePodcast, GooglePodcast, ItunesNote, Rss, Spotify } from '../icons';
 import Box from '../layout/box';
 import ExternalLink from '../navigation/external-link';
 import styles from './subscription-platform.module.css';
@@ -9,7 +9,8 @@ const ICON_COMPONENTS = {
     SPOTIFY: Spotify,
     ITUNES: ItunesNote,
     RSS: Rss,
-    'GOOGLE PODCASTS': GooglePodcast
+    'GOOGLE PODCASTS': GooglePodcast,
+    'APPLE PODCASTS': ApplePodcast
 };
 
 function getIcon(name = '') {
