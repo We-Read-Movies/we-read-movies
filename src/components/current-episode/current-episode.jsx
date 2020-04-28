@@ -7,6 +7,12 @@ import EpisodeTitle from '../episode-title';
 import EpisodeLink from '../episode-link';
 import styles from './current-episode.module.css';
 import { coverArtPropType } from '../../prop-types';
+import { truncateToNextClosestWord } from '../../util';
+
+const SHORT_DESCRIPTION_LENGTH = 150;
+function formatDescription(desc = '') {
+    return truncateToNextClosestWord(desc, SHORT_DESCRIPTION_LENGTH, '...');
+}
 
 const CurrentEpisode = ({ num, title, date, src, description, cover, slug }) => (
     <Box className={styles.episodeContainer}>
@@ -24,7 +30,7 @@ const CurrentEpisode = ({ num, title, date, src, description, cover, slug }) => 
             <div className={styles.meta}>
                 <span className={styles.date}>{date}</span>
             </div>
-            <p className={styles.description}>{description}</p>
+            <p className={styles.description}>{formatDescription(description)}</p>
             <span className={styles.readMore}>
                 <EpisodeLink slug={slug}>Read more</EpisodeLink>
             </span>
