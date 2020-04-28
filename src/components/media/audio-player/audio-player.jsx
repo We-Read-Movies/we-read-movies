@@ -43,6 +43,7 @@ const AudioPlayer = ({ src }) => {
                     </div>
                     <div className={styles.progressContainer}>
                         <Progress
+                            label="Seek"
                             max={state.duration}
                             onChange={value => {
                                 const isPaused = state.paused;

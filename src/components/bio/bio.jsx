@@ -16,7 +16,13 @@ const Bio = ({ name, image, text, socialPlatforms = [] }) => (
                 <span className={styles.bioTitle}>{name}</span>
                 <span>
                     {socialPlatforms.map(({ platform, url }) => (
-                        <SocialLink key={platform} platform={platform} size={20} url={url} />
+                        <SocialLink
+                            key={platform}
+                            label={`${platform}:${name}`}
+                            platform={platform}
+                            size={20}
+                            url={url}
+                        />
                     ))}
                 </span>
             </div>

@@ -7,9 +7,10 @@ const DEFAULT_SIZE = 52;
 
 const PlayPauseButton = ({ isPlaying = false, onClick, size = DEFAULT_SIZE }) => {
     const Icon = isPlaying ? PauseCircle : PlayCircle;
+    const label = isPlaying ? 'pause' : 'play';
 
     return (
-        <button onClick={onClick}>
+        <button aria-label={label} onClick={onClick}>
             <Icon className={styles.icon} size={size} />
         </button>
     );

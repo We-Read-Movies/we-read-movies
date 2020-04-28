@@ -7,14 +7,16 @@ import styles from './volume-control.module.css';
 
 const VolumeControl = ({ className, size, onChange, onMute, onUnmute, isMuted, value }) => {
     const VolumeIcon = isMuted ? VolumeMute : VolumeUp;
+    const label = isMuted ? 'unmute' : 'mute';
 
     return (
         <div className={styles.volumeContainer}>
-            <button className={styles.volumeIcon} onClick={() => (isMuted ? onUnmute() : onMute())}>
+            <button aria-label={label} className={styles.volumeIcon} onClick={() => (isMuted ? onUnmute() : onMute())}>
                 <VolumeIcon size={16} />
             </button>
             <Progress
                 className={cx(className)}
+                label="Volume"
                 max={1}
                 onChange={val => {
                     onUnmute();

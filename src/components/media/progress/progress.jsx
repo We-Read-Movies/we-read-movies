@@ -39,7 +39,7 @@ function getPercentageFromPosition({ inElementX, elementWidth }, step) {
     return closestStep;
 }
 
-const Progress = ({ className, color, max, onChange, size = 'md', PreviewComponent, step, value }) => {
+const Progress = ({ className, color, label = '', max, onChange, size = 'md', PreviewComponent, step, value }) => {
     const [showingPreview, setShowingPreview] = useState(false);
     const ref = useRef(null);
     const mouseInfo = useMouseHovered(ref, { bound: false, whenHovered: true });
@@ -57,6 +57,7 @@ const Progress = ({ className, color, max, onChange, size = 'md', PreviewCompone
                 </span>
             )}
             <input
+                aria-label={label}
                 className={cx(styles.progress, styles[getSizeClass(size)], className)}
                 max={100}
                 min={0}
@@ -79,6 +80,7 @@ Progress.propTypes = {
     PreviewComponent: elementType,
     className: string,
     color: string,
+    label: string,
     max: number,
     onChange: func,
     size: oneOf(['sm', 'md']),

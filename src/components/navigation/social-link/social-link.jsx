@@ -13,13 +13,13 @@ const ICON_COMPONENTS = {
     [SOCIAL_PLATFORMS.ITUNES]: ItunesNote
 };
 
-const SocialLink = ({ platform, size, url }) => {
+const SocialLink = ({ platform, size, url, label = '' }) => {
     const IconComponent = ICON_COMPONENTS[platform];
     if (!IconComponent) return null;
 
     return (
-        <ExternalLink className={styles.link} href={url}>
-            <IconComponent size={size} />
+        <ExternalLink className={styles.link} href={url} label={label || platform}>
+            <IconComponent aria-hidden={true} size={size} />
         </ExternalLink>
     );
 };
