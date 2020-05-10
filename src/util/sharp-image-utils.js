@@ -3,3 +3,7 @@ export function getFluidImage(image) {
 
     return image.childImageSharp.fluid;
 }
+
+export function getBannerImage(image) {
+    return image.childImageSharp.resize;
+}

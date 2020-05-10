@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { arrayOf, object, string, shape } from 'prop-types';
+import { arrayOf, number, object, string, shape } from 'prop-types';
 import Helmet from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
 import { withLogo } from '../hocs';
@@ -36,8 +36,8 @@ function SEO({ description, lang, meta, title, image, logoWide, path = '' }) {
     const { siteUrl } = site.siteMetadata;
     const url = formatUrl(siteUrl, path);
     const metaDescription = description || site.siteMetadata.description;
-    const metaImageSrc = image || logoWide.src;
-    const absoluteMetaImageSrc = `${siteUrl}${metaImageSrc}`;
+    const metaImage = image || logoWide;
+    const absoluteMetaImageSrc = `${siteUrl}${metaImage.src}`;
 
     const imageMeta = [
         {
@@ -47,6 +47,14 @@ function SEO({ description, lang, meta, title, image, logoWide, path = '' }) {
         {
             property: 'og:image',
             content: absoluteMetaImageSrc
+        },
+        {
+            property: 'og:image:width',
+            content: metaImage.width
+        },
+        {
+            property: 'og:image:height',
+            content: metaImage.height
         },
         {
             name: 'twitter:image',
@@ -107,13 +115,16 @@ function SEO({ description, lang, meta, title, image, logoWide, path = '' }) {
 SEO.defaultProps = {
     lang: 'en',
     meta: [],
-    description: '',
-    image: ''
+    description: ''
 };
 
 SEO.propTypes = {
     description: string,
-    image: string,
+    image: shape({
+        src: string.isRequired,
+        width: number.isRequired,
+        height: number.isRequired
+    }),
     lang: string,
     logoWide: shape({}),
     meta: arrayOf(object),

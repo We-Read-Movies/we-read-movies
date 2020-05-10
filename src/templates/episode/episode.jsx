@@ -11,17 +11,18 @@ import styles from './episode.module.css';
 import TopicsDiscussed from '../../components/topics-discussed';
 import LinksDiscussed from '../../components/links-discussed';
 import Seo from '../../components/seo';
-import { getFluidImage } from '../../util';
+import { getFluidImage, getBannerImage } from '../../util';
 
 const Episode = ({ data }) => {
     const { name: artistName, url: artistUrl } = data.artistsJson;
     const { title, num, description, src, date, duration, topics = [], links = [], cover, slug } = data.episodesJson;
     const imageFluid = getFluidImage(cover.image);
+    const imageBanner = getBannerImage(cover.image);
     const path = `/episodes/${slug}`;
 
     return (
         <PageLayout>
-            <Seo description={description} image={imageFluid.src} path={path} title={`Episode ${num}: ${title}`} />
+            <Seo description={description} image={imageBanner} path={path} title={`Episode ${num}: ${title}`} />
             <h1 className={styles.title}>
                 <EpisodeTitle num={num} title={title} />
             </h1>

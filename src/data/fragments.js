@@ -1,5 +1,43 @@
 import { graphql } from 'gatsby';
 
+export const imageFluidLargeFragment = graphql`
+    fragment imageFluidLargeFragment on EpisodesJsonCover {
+        image {
+            childImageSharp {
+                fluid(maxWidth: 750) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+    }
+`;
+
+export const imageFluidSmallFragment = graphql`
+    fragment imageFluidSmallFragment on EpisodesJsonCover {
+        image {
+            childImageSharp {
+                fluid(maxWidth: 500) {
+                    ...GatsbyImageSharpFluid
+                }
+            }
+        }
+    }
+`;
+
+export const imageBannerFragment = graphql`
+    fragment imageBannerFragment on EpisodesJsonCover {
+        image {
+            childImageSharp {
+                resize(width: 2400, height: 1300, fit: CONTAIN, background: "rgba(255,255,255,1)") {
+                    width
+                    height
+                    src
+                }
+            }
+        }
+    }
+`;
+
 export const episodeFullFragment = graphql`
     fragment episodeFullFragment on EpisodesJson {
         slug
@@ -15,13 +53,8 @@ export const episodeFullFragment = graphql`
             url
         }
         cover {
-            image {
-                childImageSharp {
-                    fluid(maxWidth: 750) {
-                        ...GatsbyImageSharpFluid
-                    }
-                }
-            }
+            ...imageFluidLargeFragment
+            ...imageBannerFragment
         }
     }
 `;
@@ -33,13 +66,7 @@ export const episodePreviewFragment = graphql`
         date
         num
         cover {
-            image {
-                childImageSharp {
-                    fluid(maxWidth: 500) {
-                        ...GatsbyImageSharpFluid
-                    }
-                }
-            }
+            ...imageFluidSmallFragment
         }
     }
 `;
