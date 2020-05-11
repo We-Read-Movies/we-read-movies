@@ -78,5 +78,29 @@
             "image": "../images/episode-covers/03-eating-out.jpg",
             "artist": "Isabel Anderson"
         }
+    },
+    {
+        "num": 4,
+        "title": "Vampire Boys",
+        "slug": "vampire-boys",
+        "description": "This week, Chris asked if we could watch the 2011 horror romance Vampire Boys, and like idiots we all said \"I don't know what that is, but sure.\" With vampires who can go out in the sunlight, and aren't afraid of crosses, but do need the love of a mortal, it's a lot like a gay Twilight. A Twinklight, if you will.",
+        "topics": [
+            "Eric's upstairs neighbors sex habits",
+            "The porn that Chris pretends he doesn't watch",
+            "LA being sepia-toned",
+            "The rare, reverse-eCupid"
+        ],
+        "links": [],
+        "date": "May 11, 2020",
+        "duration": "1:09:30",
+        "src": "https://media.zencast.fm/we-read-movies/4.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/04-vampire-boys.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
