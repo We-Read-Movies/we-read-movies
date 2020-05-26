@@ -102,5 +102,30 @@
             "image": "../images/episode-covers/04-vampire-boys.jpg",
             "artist": "Isabel Anderson"
         }
+    }, {
+        "num": 5,
+        "title": "Kiss Me Kill Me",
+        "slug": "kiss-me-kill-me",
+        "description": "Hey all you cool cats and kittens, this week, we discussed the 2015 tiger-centric film Kiss Me Kill Me, a neo-noir Hollywood thrilller directed by two-time We Read Movies director Casper Andreas. When Dusty Young's rich fiance is murdered in what looks, to everyone but the characters in the movie, like a robbery gone wrong, he is blamed for the murder. Now, with the help of some sassy lesbians and a hypnotist drag queen, he'll have to find the real killer, clear his name and maybe find love along the way.",
+        "topics": [
+            "Sexual nicknames",
+            "Shangela Laquifa Wadley",
+            "How soon after your fiance is murdered is TOO soon to start a new relationship",
+            "How long sperm live",
+            "Tiger dicks",
+            "Chris takes a break from describing the plot of this movie to describe the plot of a porno"
+        ],
+        "links": [],
+        "date": "May 16, 2020",
+        "duration": "1:40:40",
+        "src": "https://media.zencast.fm/we-read-movies/5.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/05-kiss-me-kill-me.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
