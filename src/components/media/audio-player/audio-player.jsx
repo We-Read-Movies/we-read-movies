@@ -10,10 +10,18 @@ import styles from './audio-player.module.css';
 import VolumeControl from '../volume-control';
 import ProgressPreview from '../progress-preview/progress-preview';
 
-const AudioPlayer = ({ src }) => {
+function resolveDuration(srcSeconds, stringDuration = '') {
+    if (srcSeconds) return secondsToTimestamp(srcSeconds);
+    if (stringDuration) return stringDuration;
+
+    return secondsToTimestamp(0);
+}
+
+const AudioPlayer = ({ src, duration }) => {
     const [audio, state, controls] = useAudio({
         src,
-        autoPlay: false
+        autoPlay: false,
+        preload: 'none'
     });
 
     const [time, setTime] = useState(state.time);
@@ -25,6 +33,8 @@ const AudioPlayer = ({ src }) => {
         setTime(val);
         controls.seek(val);
     }
+
+    const playerDuration = resolveDuration(state.duration, duration);
 
     return (
         <div className={styles.audioPlayer}>
@@ -39,7 +49,7 @@ const AudioPlayer = ({ src }) => {
                 <div className={styles.player}>
                     <div className={styles.upperControls}>
                         <span className={cx(styles.time)}>{secondsToTimestamp(time)}</span>
-                        <span className={cx(styles.time)}>{secondsToTimestamp(state.duration)}</span>
+                        <span className={cx(styles.time)}>{playerDuration}</span>
                     </div>
                     <div className={styles.progressContainer}>
                         <Progress
@@ -73,6 +83,7 @@ const AudioPlayer = ({ src }) => {
 };
 
 AudioPlayer.propTypes = {
+    duration: string,
     src: string.isRequired
 };
 

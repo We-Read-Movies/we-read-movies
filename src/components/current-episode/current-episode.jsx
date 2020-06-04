@@ -14,7 +14,7 @@ function formatDescription(desc = '') {
     return truncateToNextClosestWord(desc, SHORT_DESCRIPTION_LENGTH, '...');
 }
 
-const CurrentEpisode = ({ num, title, date, src, description, cover, slug }) => (
+const CurrentEpisode = ({ num, title, date, src, duration, description, cover, slug }) => (
     <Box className={styles.episodeContainer}>
         <Box className={styles.coverContainer}>
             <EpisodeLink slug={slug}>
@@ -35,7 +35,7 @@ const CurrentEpisode = ({ num, title, date, src, description, cover, slug }) => 
                 <EpisodeLink slug={slug}>Read more</EpisodeLink>
             </span>
             <div className={styles.playerContainer}>
-                <AudioPlayer src={src} />
+                <AudioPlayer duration={duration} src={src} />
             </div>
         </Box>
     </Box>
@@ -44,6 +44,7 @@ CurrentEpisode.propTypes = {
     cover: shape(coverArtPropType),
     date: string.isRequired,
     description: string.isRequired,
+    duration: string,
     num: number.isRequired,
     slug: string.isRequired,
     src: string,
