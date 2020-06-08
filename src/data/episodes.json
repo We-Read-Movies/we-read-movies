@@ -127,5 +127,30 @@
             "image": "../images/episode-covers/05-kiss-me-kill-me.jpg",
             "artist": "Isabel Anderson"
         }
+    },
+    {
+        "num": 6,
+        "title": "Kaboom",
+        "slug": "Kaboom",
+        "description": "This week, we talked about Greg Araki's 2010 psycho-sci-fi-sex-dramedy Kaboom. Look, I don't know how to describe this movie to you, it's crazy. Someone sees a murder, there's a lesbian witch and a doomsday cult and some very gross mac and cheese.",
+        "topics": [
+            "The shampoo challenge",
+            "What kind of dickpics we'd like to receive in our inbox (wereadmovies@gmail.com)",
+            "Cults",
+            "How big a cock you'd need to gag three people with it at the same time",
+            "The proper way to eat pussy like it's spaghetti"
+        ],
+        "links": [],
+        "date": "June 8, 2020",
+        "duration": "1:43:19",
+        "src": "https://media.zencast.fm/we-read-movies/6.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/06-kaboom.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
