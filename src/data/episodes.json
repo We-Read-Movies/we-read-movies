@@ -152,5 +152,37 @@
             "image": "../images/episode-covers/06-kaboom.jpg",
             "artist": "Isabel Anderson"
         }
+    },
+    {
+        "num": 7,
+        "title": "Another Gay Movie",
+        "slug": "another-gay-movie",
+        "description": "This week, we talked about another gay movie, specifically, the gay movie Another Gay Movie, a parody of the raunchy screwball sex comedies (ike American Pie). Has it aged well? Does it go way too far in the raunchy direction? Why does Drew keep defending it? WHY?!",
+        "topics": [
+            "Parodies of parodies",
+            "Bottom shaming",
+            "Kinks",
+            "How many is too many poop jokes?",
+            "Whether quiche is gay pie",
+            "Whether quiche is even any good",
+            "Seriously, why does Drew like this movie?"
+        ],
+        "links": [
+            {
+                "text": "The Atheist's Nightmare",
+                "url": "https://www.youtube.com/watch?v=Y4yBvvGi_2A"
+            }            
+        ],
+        "date": "June 22, 2020",
+        "duration": "1:28:01",
+        "src": "https://media.zencast.fm/we-read-movies/7.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/07-another-gay-movie.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
