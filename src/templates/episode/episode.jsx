@@ -14,10 +14,10 @@ import Seo from '../../components/seo';
 import { getFluidImage, getBannerImage } from '../../util';
 
 const Episode = ({ data }) => {
-    const { name: artistName, url: artistUrl } = data.artistsJson;
+    const { name: artistName, url: artistUrl } = data.artistsJson || {};
     const { title, num, description, src, date, duration, topics = [], links = [], cover, slug } = data.episodesJson;
-    const imageFluid = getFluidImage(cover.image);
-    const imageBanner = getBannerImage(cover.image);
+    const imageFluid = getFluidImage(cover?.image);
+    const imageBanner = getBannerImage(cover?.image);
     const path = `/episodes/${slug}`;
 
     return (

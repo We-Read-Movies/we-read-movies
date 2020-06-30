@@ -5,5 +5,7 @@ export function getFluidImage(image) {
 }
 
 export function getBannerImage(image) {
+    if (!image) return null;
+
     return image.childImageSharp.resize;
 }

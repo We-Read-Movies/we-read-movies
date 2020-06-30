@@ -7,7 +7,7 @@ import EpisodeTitle from '../episode-title';
 import EpisodeLink from '../episode-link';
 import styles from './current-episode.module.css';
 import { coverArtPropType } from '../../prop-types';
-import { truncateToNextClosestWord } from '../../util';
+import { truncateToNextClosestWord, getFluidImage } from '../../util';
 
 const SHORT_DESCRIPTION_LENGTH = 150;
 function formatDescription(desc = '') {
@@ -18,7 +18,7 @@ const CurrentEpisode = ({ num, title, date, src, duration, description, cover, s
     <Box className={styles.episodeContainer}>
         <Box className={styles.coverContainer}>
             <EpisodeLink slug={slug}>
-                <EpisodeCover src={cover.image.childImageSharp.fluid} />
+                <EpisodeCover src={getFluidImage(cover?.image)} />
             </EpisodeLink>
         </Box>
         <Box className={styles.episodeInfo} inset="md">
