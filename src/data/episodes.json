@@ -184,5 +184,27 @@
             "image": "../images/episode-covers/07-another-gay-movie.jpg",
             "artist": "Isabel Anderson"
         }
+    },
+    {
+        "num": 8,
+        "title": "SHORTS - Hey, Google",
+        "slug": "hey-google",
+        "description": "We're trying something new today! We noticed a glut of bad gay short films on our streaming services, and decided, on our off weeks, that maybe we'd talk briefly about those. So if an hour and a half of us yammering in your ears every two weeks just isn't enough, now you can hear us talk for twenty more minutes about a short film it only takes ten minutes to watch.",
+        "topics": [
+            "The 2020 short film Hey, Google",
+            "Netflix reality shows",
+            "How soon is too soon for a pandemic related story?",
+            "Glamour muscles",
+            "Why you probably shouldn't make a movie that makes the watcher's smart device chime every 30 seconds"
+        ],
+        "links": [],
+        "date": "June 29, 2020",
+        "duration": "0:17:00",
+        "src": "https://media.zencast.fm/we-read-movies/8.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
