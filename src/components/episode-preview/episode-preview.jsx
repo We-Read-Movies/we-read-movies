@@ -6,12 +6,13 @@ import EpisodeTitle from '../episode-title';
 import EpisodeLink from '../episode-link';
 import { coverArtPropType } from '../../prop-types';
 import styles from './episode-preview.module.css';
+import { getFluidImage } from '../../util';
 
 const EpisodePreview = ({ cover, date, num, slug, title }) => (
     <Box>
         <EpisodeLink slug={slug}>
             <Box>
-                <EpisodeCover src={cover.image.childImageSharp.fluid} />
+                <EpisodeCover src={getFluidImage(cover?.image)} />
             </Box>
         </EpisodeLink>
         <Box>
