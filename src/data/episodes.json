@@ -229,5 +229,21 @@
             "hangsDong": false
         },
         "mini": false
+    },
+    {
+        "num": 10,
+        "title": "SHORTS - Legally Blonde",
+        "slug": "shorts-legally-blonde",
+        "description": "This week, for our bonus short, we begin by talking about Chris in the shower, and end up talking about that scene in Legally Blonde where Enrique the poolboy gets outed for knowing about designer shoes. It's a wild ride.",
+        "topics": [],
+        "links": [],
+        "date": "July 13, 2020",
+        "duration": "0:09:46",
+        "src": "https://media.zencast.fm/we-read-movies/10.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
