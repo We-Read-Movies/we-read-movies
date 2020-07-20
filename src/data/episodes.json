@@ -245,5 +245,31 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 11,
+        "title": "Bear City",
+        "slug": "bear-city",
+        "description": "This week, the boys watched the 2010 film Bear City, a hairy, gay attempt at Sex and the City, that Chris has a lot of opinions about. Can a twink make it in bear's world? Can a bear make it in a twink's world? What if neither of those classifications applied and it was just a boring romantic comedy without jokes? Let's find out!",
+        "topics": [
+            "What makes a bear?",
+            "Chris's experiences at the Eagle",
+            "Editing down 3 hours of content",
+            "Jokes!",
+            "Shallowness and villainy"
+        ],
+        "links": [],
+        "date": "July 20, 2020",
+        "duration": "1:33:21",
+        "src": "https://media.zencast.fm/we-read-movies/11.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/11-bear-city.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
