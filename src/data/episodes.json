@@ -271,5 +271,27 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 12,
+        "title": "SHORTS - David Decoteau",
+        "slug": "shorts-david-decoteau",
+        "description": "This week, we answered the question of why we'll never do a David Decoteau movie on this podcast.",
+        "topics": [
+            "Sorority Babes in the Slimeball Bowl-o-rama",
+            "The 1313 series",
+            "Gay baiting movie covers",
+            "Cryptozoology",
+            "Who the killer was this whole time"
+        ],
+        "links": [],
+        "date": "July 27, 2020",
+        "duration": "00:15:17",
+        "src": "https://media.zencast.fm/we-read-movies/12.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
