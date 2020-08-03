@@ -293,5 +293,37 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 13,
+        "title": "Eating Out 2: Sloppy Seconds",
+        "slug": "eating-out-2",
+        "description": "This week, we were joined by the incomparable Mike Johnson and Kyle Getz from the Gayish podcast to talk about the 2006 film Eating Out 2: Sloppy Seconds. Scream taught us that, in the sequel, the body count is always higher, the death scenes are always more elaborate, and the killer is never dead. Will those rules hold true to this tale of sexual trickery? Let's find out!",
+        "topics": [
+            "Pocket pussies",
+            "Ex-gays",
+            "Camboys",
+            "What your grandfather's balls can tell you about your future",
+            "Whether cunnilingus is hard",
+            "How to make models comfortable when posing for homoerotic art"
+        ],
+        "links": [
+            {
+                "text": "Gayish Podcast",
+                "url": "https://www.gayishpodcast.com/"
+            }            
+        ],
+        "date": "August 3, 2020",
+        "duration": "1:13:47",
+        "src": "https://media.zencast.fm/we-read-movies/13.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/13-eating-out-2.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
