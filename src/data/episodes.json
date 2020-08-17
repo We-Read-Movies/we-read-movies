@@ -325,5 +325,31 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 14,
+        "title": "Hot Guys With Guns",
+        "slug": "hot-guys-with-guns",
+        "description": "This week, fighting through technical difficulties, we talked about the 2013 film Hot Guys With Guns, about two ex boyfriends and wannabe private eyes who solve the crime of who robbed a bunch of Hollywood sex parties. The title is promising, can it live up to it? Probably not!",
+        "topics": [
+            "How poppers smell",
+            "Possums vs O'possums",
+            "Dr Jerkoff and Mr Hard",
+            "The right way to commit crimes",
+            "Justice"
+        ],
+        "links": [],
+        "date": "August 17, 2020",
+        "duration": "1:17:25",
+        "src": "https://media.zencast.fm/we-read-movies/14.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/14-hot-guys-with-guns.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
