@@ -351,5 +351,27 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 15,
+        "title": "SHORTS - Mulan",
+        "slug": "shorts-mulan",
+        "description": "This week, we talked about the Disney animated movie Mulan, maybe you've heard of it?",
+        "topics": [
+            "Sexual awakenings",
+            "The use of fruit in drag ",
+            "Breaking Amish in reverse",
+            "Drew's hookup past",
+            "Good drag names"
+        ],
+        "links": [],
+        "date": "August 24, 2020",
+        "duration": "0:16:01",
+        "src": "https://media.zencast.fm/we-read-movies/15.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
