@@ -373,5 +373,32 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 16,
+        "title": "The Big Gay Musical",
+        "slug": "big-gay-musical",
+        "description": "This week, at the request of a fan, we watched the misnamed 2009 movie The Big Gay Musical, a movie that is pretty small and not really a musical. What's going on here? It must be the work of none other than Casper Andreas.",
+        "topics": [
+            "Musicals",
+            "Bottom shaming",
+            "Bottoms-who-bottom-for-bottoms shaming",
+            "The filmography of Brent Corrigan",
+            "The bible ",
+            "The beauty of men's ballet tights"
+        ],
+        "links": [],
+        "date": "August 31, 2020",
+        "duration": "1:27:57",
+        "src": "https://media.zencast.fm/we-read-movies/16.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/16-big-gay-musical.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
