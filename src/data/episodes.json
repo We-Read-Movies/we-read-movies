@@ -426,5 +426,31 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 18,
+        "title": "Last Ferry",
+        "slug": "last-ferry",
+        "description": "This week, we watched the most recent movie we've done, the 2019 film Last Ferry. When a young gay lawyer sees a murder on Fire Island, he pretty much ignores it until the last five minutes of the movie when the movie goes off the rails. Fun!",
+        "topics": [
+            "Cruising",
+            "Fire Island",
+            "Sexy murder",
+            "The best Ninja Turtle",
+            "Hey, did you know that Chris is from New York?"
+        ],
+        "links": [],
+        "date": "September 14, 2020",
+        "duration": "1:19:19",
+        "src": "https://media.zencast.fm/we-read-movies/18.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/18-last-ferry.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
