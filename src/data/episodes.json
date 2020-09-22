@@ -452,5 +452,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 19,
+        "title": "SHORTS - Bed Buddies",
+        "slug": "shorts-bed-buddies",
+        "description": "This week, we watched the 2016 short film Bed Buddies, about what happens when best friends Brent, Jared and Danny all have a drunken threesome. Now in the cold light of sobriety they have to decide whether to stay friends or more than friends, and they have to do it while staring at Brent's comically gargantuan bulge.",
+        "topics": [
+            "Hooking up with friends",
+            "What slurs you're allowed to use (if in doubt, don't)",
+            "Rowan Atkinson",
+            "Weird threesomes",
+            "Hookup apps"
+        ],
+        "links": [{
+            
+                "text": "Watch along with us",
+                "url": "https://www.dailymotion.com/video/x5cubvr"
+                        
+        }],
+        "date": "September 21, 2020",
+        "duration": "0:29:03",
+        "src": "https://media.zencast.fm/we-read-movies/19.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
