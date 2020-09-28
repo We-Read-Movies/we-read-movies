@@ -479,5 +479,31 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 20,
+        "title": "My Brother's Shoes",
+        "slug": "my-brothers-shoes",
+        "description": "This week, we talked about My Brother's Shoes, a wacky body-swap comedy where two brothers swap bodies and learn a little lesson about how hard it is to pump a baby into your ovulating sister-in-law when you're a gay guy inhabiting your straight brother's body.",
+        "topics": [
+            "A certain drag race alum's Nazi porn past",
+            "Freaky Friday body swaps vs Quantum Leap body swaps",
+            "Good drag names",
+            "Business",
+            "Why it's so hard to get gay sex right in a gay movie"
+        ],
+        "links": [],
+        "date": "September 28, 2020",
+        "duration": "1:25:35",
+        "src": "https://media.zencast.fm/we-read-movies/20.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/20-my-brothers-shoes.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
