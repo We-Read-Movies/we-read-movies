@@ -505,5 +505,26 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 21,
+        "title": "SHORTS - The More The Scarier",
+        "slug": "shorts-the-more-the-scarier",
+        "description": "This week, for the spookiest month of them all, we watched a gay horror short about a horny ghost. It's only a 6 minute short, and most of that is laugh track, so most of the episode is us talking about whether or not we'd fuck a ghost.",
+        "topics": [
+            "Abraham Lincoln's ghost",
+            "Chuck Tingle books",
+            "Would you fuck a ghost?",
+            "Yes"
+        ],
+        "links": [],
+        "date": "October 5, 2020",
+        "duration": "0:19:05",
+        "src": "https://media.zencast.fm/we-read-movies/21.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
