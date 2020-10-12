@@ -526,5 +526,33 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 22,
+        "title": "Hellbent",
+        "slug": "hellbent",
+        "description": "The spookiest month continues with Hellbent, a 2004 gay slasher flick, about a hot guy in a devil mask who murders West Hollywood gays for... some reason. Did we lose our heads for this gorefest, or were we bored to death? Find out!",
+        "topics": [
+            "We try to name a single opera",
+            "Slashers",
+            "Stripper cops",
+            "What's the best way to describe your dick?",
+            "Cruising",
+            "Is it hard to get laid in drag",
+            "Wincest"
+        ],
+        "links": [],
+        "date": "October 12, 2020",
+        "duration": "1:24:27",
+        "src": "https://media.zencast.fm/we-read-movies/22.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/22-hellbent.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
