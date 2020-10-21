@@ -554,5 +554,29 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 23,
+        "title": "I Was a Teenage Werebear (with Sean Paul Lockhart, aka Brent Corrigan)",
+        "slug": "i-was-a-teenage-werebear",
+        "description": "This week, we were joined by the incomparable Sean Paul Lockhart (Brent Corrigan if you're nasty) to talk about the 2011 featurette I Was a Teenage Werebear. A movie he was in! Guys, I'm geeking out over here.",
+        "topics": [
+            "Teen Beach Movies",
+            "Ron Jeremy's dick",
+            "Jockstrap diapers",
+            "And we get real about some stuff"
+        ],
+        "links": [{
+            "text": "JUSTFOR.fans/brentcorrigan",
+            "url": "https://JUSTFOR.fans/brentcorrigan"
+        }],
+        "date": "October 20, 2020",
+        "duration": "1:00:28",
+        "src": "https://media.zencast.fm/we-read-movies/23.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
     }
 ]
