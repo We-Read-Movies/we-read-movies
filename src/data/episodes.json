@@ -577,6 +577,10 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/23-teenage-werebear.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
