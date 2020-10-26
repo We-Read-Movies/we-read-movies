@@ -582,5 +582,30 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 24,
+        "title": "Pornography: A Thriller",
+        "slug": "pornography-a-thriller",
+        "description": "This week, we talked about Pornography: A Thriller, a 2010 movie that wants you to feel bad about watching porn, but also kind of wants to show you some porn. The movie makes no sense, so if this episode feels incomprehensible, it's because we're actually doing an amazingly good job explaining it.",
+        "topics": [
+            "Good porn names",
+            "How to get out of an unwanted party invitation",
+            "Ghosts/demons/extradimensional creatures",
+            "Count Barebackula"
+        ],
+        "links": [],
+        "date": "October 26, 2020",
+        "duration": "1:08:20",
+        "src": "https://media.zencast.fm/we-read-movies/24.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/24-pornography-a-thriller.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
