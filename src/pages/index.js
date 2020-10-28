@@ -18,7 +18,7 @@ const IndexPage = ({ data }) => {
             <Seo title="Episodes" />
             <h1 className={styles.currentEpisodeHeading}>Current Episode</h1>
             <CurrentEpisode {...currentEpisode} />
-            <h2 className="section-heading">Past Epsiodes</h2>
+            <h2 className="section-heading">Past Episodes</h2>
             <div className={styles.episodeList}>
                 {episodes.map(ep => (
                     <div className={styles.previewWrapper} key={ep.title}>
