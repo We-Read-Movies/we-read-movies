@@ -607,5 +607,31 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 25,
+        "title": "Third Man Out",
+        "slug": "third-man-out",
+        "description": "This week, we watched Third Man Out, the first of the Donald Strachey mystery series produced for HereTV. Starring Chad Allen as the most famous gay private investigator in all of Albany, this movie is the fun kind of incomprehensible. ",
+        "topics": [
+            "The Dirty Albs",
+            "Matthew Rush's dick",
+            "Batman's claim to be the World's Greatest Detective",
+            "Outing people",
+            "Lower back tattoos"
+        ],
+        "links": [],
+        "date": "November 09, 2020",
+        "duration": "1:20:31",
+        "src": "https://media.zencast.fm/we-read-movies/25.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/25-third-man-out.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
