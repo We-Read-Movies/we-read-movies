@@ -633,5 +633,27 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 26,
+        "title": "SHORTS - G O'Clock",
+        "slug": "g-oclock",
+        "description": "This week, we talked for a very long time about the short film G O'Clock, about a chemsex party gone awry. Well, more awry.",
+        "topics": [
+            "Pokemon",
+            "Booty shorts",
+            "Recreational drug use",
+            "Man-chaining",
+            "British porn stars"
+        ],
+        "links": [],
+        "date": "November 16, 2020",
+        "duration": "0:23:29",
+        "src": "https://media.zencast.fm/we-read-movies/26.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "mini": true
     }
 ]
