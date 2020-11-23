@@ -655,5 +655,30 @@
             "hangsDong": true
         },
         "mini": true
+    },
+    {
+        "num": 27,
+        "title": "Is It Just Me?",
+        "slug": "is-it-just-me",
+        "description": "This week, we watched Is It Just Me? the first film by JC Calciano, and by far his worst. When sad sack Blaine finds out that he accidentally catfished Texas boy Xander, he'll have to reenact the movie The Truth About Cats and Dogs (but with a self-hating gay twist) if he wants to get the guy. Is love more important than looks? What if you're actually totally fine looking, and also if you've only known each other for like a day and a half?",
+        "topics": [
+            "Musicals about politicians",
+            "Gogo dancers",
+            "Why do people in movies play video games so fucking weird?",
+            "Chris describes a porno"
+        ],
+        "links": [],
+        "date": "November 23, 2020",
+        "duration": "1:12:09",
+        "src": "https://media.zencast.fm/we-read-movies/27.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/27-is-it-just-me.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
