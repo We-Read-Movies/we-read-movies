@@ -680,5 +680,31 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 28,
+        "title": "Walk a Mile in My Pradas",
+        "slug": "walk-a-mile-in-my-pradas",
+        "description": "This week, we watched the 2011 movie Walk a Mile in My Pradas, about a straight guy who magically becomes gay thanks to Bruce Vilanch's magical Christmas ornament. Also there's a gay dude who becomes magically straight, but he's barely in the movie sooooo...",
+        "topics": [
+            "The gay porn parody of The Ring",
+            "Stereotypes",
+            "Boats and cop cars",
+            "Andy the Talking Hedgehog",
+            "Famous Bruces"
+        ],
+        "links": [],
+        "date": "December 7, 2020",
+        "duration": "1:17:30",
+        "src": "https://media.zencast.fm/we-read-movies/28.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/28-walk-a-mile-in-my-pradas.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
