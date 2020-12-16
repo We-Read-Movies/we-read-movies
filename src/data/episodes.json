@@ -706,5 +706,26 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 29,
+        "title": "SHORTS - Luber",
+        "slug": "shorts-luber",
+        "description": "This week, we talked about the short gay film Luber, an exploration into the extreme depths of sadness, lust, and one man's parasite-filled butthole.",
+        "topics": [
+            "STDs",
+            "Gay Ziggy",
+            "German romantic literature",
+            "Tattoos and the men who love them (Drew)"
+        ],
+        "links": [],
+        "date": "December 14, 2020",
+        "duration": "0:23:21",
+        "src": "https://media.zencast.fm/we-read-movies/29.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
