@@ -748,5 +748,27 @@
             "hangsDong": false
         },
         "mini": false
+    },
+    {
+        "num": 31,
+        "title": "SHORTS - Andy The Talking Hedgehog",
+        "slug": "shorts-andy-the-talking-hedgehog",
+        "description": "This week, at the suggestion of a listener who hates us, we watched the not even gay movie Andy the Talking Hedgehog. Starring Tara Reid and Dean Cain, this movie is a fascinating look into the depths of how bad a movie can actually be. We thought Pornography: A Thriller was terrible, but Andy the Talking Hedgehog has shown us how good we've actually had it. At least that movie hung dong.",
+        "topics": [
+            "Actors with problematic views",
+            "Hedgehog teeth",
+            "Lisa Frank",
+            "What should a talking cat sound like?",
+            "Accents"
+        ],
+        "links": [],
+        "date": "December 28, 2020",
+        "duration": "0:19:20",
+        "src": "https://media.zencast.fm/we-read-movies/31.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
