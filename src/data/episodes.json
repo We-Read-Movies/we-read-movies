@@ -770,5 +770,31 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 32,
+        "title": "The Love Patient",
+        "slug": "the-love-patient",
+        "description": "This week, we talked about the 2011 movie The Love Patient, about an awful man who fakes having cancer to get back with his ex who's in a much better place since they broke up. Will deception bring love? Will they land the big client at their ad agency? Will there be a weird pagan orgy in the middle for some reason? Let's find out!",
+        "topics": [
+            "Which Pokemon would you have sex with?",
+            "Cooking naked",
+            "Christmas presents",
+            "What exactly is the replicator on Star Trek using to make food?",
+            "The right way to pretend you have cancer for love and profit"
+        ],
+        "links": [],
+        "date": "January 04, 2021",
+        "duration": "1:22:59",
+        "src": "https://media.zencast.fm/we-read-movies/32.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/32-love-patient.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
