@@ -796,5 +796,40 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 33,
+        "title": "Another Gay Sequel: Gays Gone Wild",
+        "slug": "another-gay-sequel",
+        "description": "This week, Isabel Anderson, who also does our amazing episode art, joined us to talk about Another Gay Sequel: Gays Gone Wild. All of us, except Drew, hated the first film, but what will this installment bring? Can it hope to surpass the nasty, crass humor of the first movie? (Hint: Yes)",
+        "topics": [
+            "Which kind of merperson would you have sex with?",
+            "Cursed tikis",
+            "Chris describes the worst porno he's ever seen",
+            "Problematic gays",
+            "Bath houses"
+        ],
+        "links": [
+            {
+                "text": "Glowmoon Doll",
+                "url": "https://glowmoondoll.com/"
+            },
+            {
+                "text": "Buff Mr. Mime",
+                "url": "https://i.redd.it/p1ooz0poxtn11.jpg"
+            }
+        ],
+        "date": "January 18, 2021",
+        "duration": "1:27:29",
+        "src": "https://media.zencast.fm/we-read-movies/33.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/33-another-gay-sequel.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
