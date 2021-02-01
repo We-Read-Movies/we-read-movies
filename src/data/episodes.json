@@ -831,5 +831,36 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 34,
+        "title": "Vampire Boys 2: The New Brood",
+        "slug": "vampire-boys-2",
+        "description": "This week, along with our special guests Butch Alice and Anya Knees, we talked about the 2013 film Vampire Boys 2: The New Brood. With naked fight scenes, bad accents, and mind control powers, it should be a hit. Is it? Probably not, but let's find out!",
+        "topics": [
+            "Scooby Doo",
+            "The rules of vampires",
+            "Naked boxing",
+            "Mind control acting",
+            "Hey, look over there!"
+        ],
+        "links": [
+            {
+                "text": "The Vampires of the Neverwood",
+                "url": "http://www.annextheatre.org/2020-season/the-vampires-of-the-neverwood/"
+            }
+        ],
+        "date": "February 1, 2021",
+        "duration": "1:19:05",
+        "src": "https://media.zencast.fm/we-read-movies/35.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/34-vampire-boys-2.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
