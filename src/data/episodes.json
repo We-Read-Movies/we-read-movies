@@ -862,5 +862,26 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 35,
+        "title": "SHORTS - Do We Really Have To Say Goodbye?",
+        "slug": "shorts-do-we-really-have-to-say-goodbye",
+        "description": "This week, we talked about the short film Do We Really Have to Say Goodbye, a gay covid tale with a twist ending that's so short we padded it out with a list of movies Chris has cried at on planes. It's weirder than you think.",
+        "topics": [
+            "Covid movies during covid",
+            "Movies Chris has cried at on planes",
+            "Speaking of planes, who gave Baloo the Bear flight technology?",
+            "Master Chef Junior"
+        ],
+        "links": [],
+        "date": "February 8, 2021",
+        "duration": "0:13:29",
+        "src": "https://media.zencast.fm/we-read-movies/36.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
