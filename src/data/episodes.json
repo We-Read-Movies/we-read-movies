@@ -833,7 +833,7 @@
         "mini": false
     },
     {
-        "num": 34,
+        "num": 35,
         "title": "Vampire Boys 2: The New Brood",
         "slug": "vampire-boys-2",
         "description": "This week, along with our special guests Butch Alice and Anya Knees, we talked about the 2013 film Vampire Boys 2: The New Brood. With naked fight scenes, bad accents, and mind control powers, it should be a hit. Is it? Probably not, but let's find out!",
@@ -864,7 +864,7 @@
         "mini": false
     },
     {
-        "num": 35,
+        "num": 36,
         "title": "SHORTS - Do We Really Have To Say Goodbye?",
         "slug": "shorts-do-we-really-have-to-say-goodbye",
         "description": "This week, we talked about the short film Do We Really Have to Say Goodbye, a gay covid tale with a twist ending that's so short we padded it out with a list of movies Chris has cried at on planes. It's weirder than you think.",
@@ -883,5 +883,27 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 37,
+        "title": "Judas Kiss",
+        "slug": "judas-kiss",
+        "description": "This week, we watched the 2011 time travel drama Judas Kiss. When failed director Zach agrees to judge a film competition at his old alma mater, he magically travels back in time and meets himself as a student. Does he have sex with himself? You bet he does. Does anything else happen? Let's find out!",
+        "topics": [
+            "Would you have sex with past you?",
+            "The unfortunate music of Brokencyde",
+            "Straights Ask the Darnedest Thing",
+            "Drew's dating history",
+            "How many time travel references can we make? Hint: it's a lot"
+        ],
+        "links": [],
+        "date": "February 15, 2021",
+        "duration": "1:26:57",
+        "src": "https://media.zencast.fm/we-read-movies/37.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
     }
 ]
