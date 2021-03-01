@@ -904,6 +904,10 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/37-judas-kiss.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     },
     {
@@ -927,5 +931,30 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 39,
+        "title": "Shock to the System",
+        "slug": "shock-to-the-system",
+        "description": "This week, we watched the 2006 Shock to the System, the second in the Donald Strachey series of mysteries. Join us as we return to the Dirty Albs, and try solve a mystery so confusing that the country's most famous gay detective doesn't even know what the mystery is.",
+        "topics": [
+            "Chris describes a porno he should have described last episode",
+            "Ex-gay therapy",
+            "Tattoos",
+            "Morgan Fairchild"
+        ],
+        "links": [],
+        "date": "March 1, 2021",
+        "duration": "1:20:45",
+        "src": "https://media.zencast.fm/we-read-movies/39.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/39-shock-to-the-system.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
