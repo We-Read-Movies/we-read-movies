@@ -956,5 +956,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 40,
+        "title": "The Wolves of Kromer",
+        "slug": "the-wolves-of-kromer",
+        "description": "This week, we watched the 1998 film The Wolves of Kromer. In a world where gay people are some sort of werewolves who live in the British countryside and eat old ladies, can we ever learn to get along with our straight neighbors? If this concept sounds wild, it's because it is.",
+        "topics": [
+            "Problematic gay allegories",
+            "Does Pac-Man have a dick?",
+            "Models who are actors",
+            "The world's greatest detective",
+            "Grief orgasms",
+            "Oi innit, gov?"
+        ],
+        "links": [],
+        "date": "March 15, 2021",
+        "duration": "1:21:11",
+        "src": "https://media.zencast.fm/we-read-movies/40.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/40-wolves-of-kromer.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
