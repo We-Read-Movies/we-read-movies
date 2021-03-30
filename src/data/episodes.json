@@ -1005,6 +1005,10 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/41-ben-and-arthur.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
