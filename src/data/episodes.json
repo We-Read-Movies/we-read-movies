@@ -1032,6 +1032,10 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/42-crisis-hotline.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
