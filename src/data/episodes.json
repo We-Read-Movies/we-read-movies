@@ -1037,5 +1037,27 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 43,
+        "title": "Demons",
+        "slug": "demons",
+        "description": "This week, we watched the 2017 short film Demons. In a world where murder is normal, but being gay is weird and gross, can a gay serial killer find acceptance and... maybe even love?",
+        "topics": [
+            "What's a metaphor?",
+            "Purge worlds",
+            "Piss play is not our thing, but if it's yours it's cool, just don't be a bad person about it",
+            "Waterparks",
+            "What if Air Bud played other sports?"
+        ],
+        "links": [],
+        "date": "April 19, 2021",
+        "duration": "0:19:22",
+        "src": "https://media.zencast.fm/we-read-movies/43.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": true
     }
 ]
