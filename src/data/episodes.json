@@ -1059,5 +1059,38 @@
             "hangsDong": false
         },
         "mini": true
+    },
+    {
+        "num": 44,
+        "title": "Eating Out: All You Can Eat",
+        "slug": "eatinng-out-all-you-can-eat",
+        "description": "This week, Mike and Kyle of Gayish are back to talk about Eating Out: All You Can Eat. The third in the Eating Out Series, this film features a brand new (mostly) cast of characters but the same old sexual trickery. But can it live up to the \"second highest rating of the series\" at 17%? Turns out, it can!",
+        "topics": [
+            "How much jizz is too much?",
+            "Appropriate eulogies",
+            "Cyber sex etiquette",
+            "Is it gay if it's in a threesome with two other dudes?",
+            "The ever deepening mystery of why Eric thinks people keep condoms in bathrooms in movies"
+        ],
+        "links": [{
+            "text": "Gayish Podcast",
+            "url": "https://www.gayishpodcast.com/"
+        },
+        {
+            "text": "Have a Nice Gay",
+            "url": "https://www.haveanicegay.com/"
+        }],
+        "date": "April 26, 2021",
+        "duration": "1:34:57",
+        "src": "https://media.zencast.fm/we-read-movies/44.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/44-eating-out-3.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
