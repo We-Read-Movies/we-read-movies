@@ -1092,5 +1092,29 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 45,
+        "title": "The Gay Bed and Breakfast of Terror",
+        "slug": "the-gay-bed-and-breakfast-of-terror",
+        "description": "This week, we watched the 2007 horror comedy The Gay Bed and Breakfast of Terror. Not nearly as campy as the title promised, this film follows five separate couples as they all get murdered by an evil slug boy and his creepy family. What is the story behind these monstrous murderers? Will anyone survive? Let's find out!",
+        "topics": [
+            "My neck, my backstories",
+            "What would you call a racist dog? ",
+            "Who's Manfred?",
+            "Chris describes Underwear Snatchers"
+        ],
+        "links": [{
+            "text": "Bathe in my milk",
+            "url": "https://www.snopes.com/news/2019/05/21/bathe-in-my-milk-photographs/"
+        }],
+        "date": "May 8, 2021",
+        "duration": "1:25:16",
+        "src": "https://media.zencast.fm/we-read-movies/45.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "mini": false
     }
 ]
