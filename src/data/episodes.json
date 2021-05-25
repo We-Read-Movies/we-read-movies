@@ -1108,12 +1108,45 @@
             "text": "Bathe in my milk",
             "url": "https://www.snopes.com/news/2019/05/21/bathe-in-my-milk-photographs/"
         }],
-        "date": "May 8, 2021",
+        "date": "May 10, 2021",
         "duration": "1:25:16",
         "src": "https://media.zencast.fm/we-read-movies/45.mp3",
         "hosting": "zencast",
         "movieInfo": {
             "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/45-gay-bed-and-breakfast.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 46,
+        "title": "Daddy (with Minoritea Report)",
+        "slug": "daddy",
+        "description": "This week, we watched the 2015 movie Daddy. An older man who once donated sperm in college, and now has a habit of hooking up with younger guys, meets the young guy of his dreams, and it turns out, wouldn't you know it, that they're actually related.",
+        "topics": [
+            "TV news pundits",
+            "Not shaking your dick after peeing",
+            "Incest porn",
+            "Having sex in a dorm room as an adult",
+            "Problematic storylines"
+        ],
+        "links": [{
+            "text": "Minoritea Report",
+            "url": "https://minoriteareport.libsyn.com/"
+        }],
+        "date": "May 24, 2021",
+        "duration": "1:15:07",
+        "src": "https://media.zencast.fm/we-read-movies/46.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/46-daddy.jpg",
+            "artist": "Isabel Anderson"
         },
         "mini": false
     }
