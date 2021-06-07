@@ -1149,5 +1149,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 47,
+        "title": "The Dark Place",
+        "slug": "the-dark-place",
+        "description": "This week, we watched the 2014 movie The Dark Place. When Keegan Dark (definitely a real person's name), a young guy with a perfect memory, comes home to find his estranged mother has remarried and his new step brother is a possibly murderous guy with an amazing body, he has to solve the mystery of what the hell is going on in this movie.",
+        "topics": [
+            "Wine snobbery",
+            "What if JK Simmons was in Fifty Shades of Gray ",
+            "The lamest X-Men powers",
+            "The perfect crime",
+            "The least comprehensible crime",
+            "Step brother porn"
+        ],
+        "links": [],
+        "date": "June 7, 2021",
+        "duration": "1:24:58",
+        "src": "https://media.zencast.fm/we-read-movies/47.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/47-the-dark-place.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
