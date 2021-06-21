@@ -1176,5 +1176,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 48,
+        "title": "Mulligans",
+        "slug": "mulligans",
+        "description": "Happy Father's Day! If you thought we'd had enough of dad sex, you've clearly never found our internet search history, so this week we watched the 2008 movie Mulligans. Best friends Tyler and Chase come home for the summer but Chase soon finds that... well, it's not quite love, but he finds that he'd maybe give sex with Tyler's Dad a chance. Does it blossom into something beautiful? Will the family find out this dark secret? Did Chase bring his shower shot from college? Let's find out!",
+        "topics": [
+            "Would you have sex with someone's dad?",
+            "Cursed paintings",
+            "Reality dating shows",
+            "More reality dating shows",
+            "Horse names",
+            "Golf, I guess?"
+        ],
+        "links": [],
+        "date": "June 21, 2021",
+        "duration": "1:22:16",
+        "src": "https://media.zencast.fm/we-read-movies/48.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/48-mulligans.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
