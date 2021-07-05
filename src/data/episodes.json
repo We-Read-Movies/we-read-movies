@@ -1203,5 +1203,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 49,
+        "title": "Unhappy Birthday",
+        "slug": "unhappy-birthday",
+        "description": "This week, we talked about the 2010 movie Unhappy Birthday, which is hailed, in the Amazon description,as \"a queer take on the Wicker Man\" in that it's also British. When Sadie, her boyfriend, and her boyfriend's boyfriend are all trapped on a mysterious island that's maybe haunted (and also there's a cult or something?) they'll have to escape if they want to avoid becoming baby-making surrogates to a full-grown woman in a dress made for a child's purity ring ceremony. If that description sounds confusing, just wait, because this movie makes zero sense. Can our hosts get through it? Let's find out!",
+        "topics": [
+            "James Watson looks like an absolute ghoul",
+            "Final Fantasy X-2",
+            "Mead gets you horny",
+            "Urinal troughs",
+            "Insulting people's fathers in their own homes",
+            "Having a threeway with the door open"
+        ],
+        "links": [],
+        "date": "July 5th, 2021",
+        "duration": "1:09:05",
+        "src": "https://media.zencast.fm/we-read-movies/49.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/49-unhappy-birthday.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
