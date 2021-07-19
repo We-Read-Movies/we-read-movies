@@ -1230,5 +1230,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 50,
+        "title": "Knife+Heart",
+        "slug": "knife-heart",
+        "description": "This week, we watched the somewhat confusing but genuinely enjoyable French thriller Knife+Heart. A killer is stalking the cast of a gay porn studio with a dildo knife, and only Anne, the studio's alcoholic lesbian producer is taking it seriously. But can she navigate the a world of magical birds and dinosaur handed men to save the day in time?",
+        "topics": [
+            "Seriously, what's the point of fluffers?",
+            "Everything we know about France we learned from EricVideos",
+            "Culturally acceptable blackface",
+            "How to recruit porn actors",
+            "Birds that eat death and then fly to sun",
+            "The French are very fashionable"
+        ],
+        "links": [],
+        "date": "July 19th, 2021",
+        "duration": "1:20:55",
+        "src": "https://media.zencast.fm/we-read-movies/50.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/50-knife-heart.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
