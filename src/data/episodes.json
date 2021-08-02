@@ -1231,7 +1231,7 @@
         },
         "mini": false
     },
-    {
+     {
         "num": 50,
         "title": "Knife+Heart",
         "slug": "knife-heart",
@@ -1254,6 +1254,33 @@
         },
         "cover": {
             "image": "../images/episode-covers/50-knife-heart.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 51,
+        "title": "Say Yes",
+        "slug": "say-yes",
+        "description": "This week, we watched the 2018 movie, Say Yes, about a woman with terminal cancer, who's last and most serious wish is that after she dies, her husband will have sex with her twin brother. If that sounds weird as heck, just buckle yourselves in!",
+        "topics": [
+            "Twincest",
+            "Howard the Duck's PG rating ",
+            "John Edwards' sex tape",
+            "Rolling a nat 20 on your persuasion check",
+            "New ideas for Hallmark cards",
+            "Uses for melons"
+        ],
+        "links": [],
+        "date": "August 2nd, 2021",
+        "duration": "1:07:53",
+        "src": "https://media.zencast.fm/we-read-movies/51.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/51-say-yes.jpg",
             "artist": "Isabel Anderson"
         },
         "mini": false
