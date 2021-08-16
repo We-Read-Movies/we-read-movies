@@ -1284,5 +1284,28 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 52,
+        "title": "Somefarwhere",
+        "slug": "somefarwhere",
+        "description": "Everyone, this week's episode was tough on all of us. This movie doesn't make a bit of sense, and Eric may never forgive us for making him watch it. We watched the 2011 movie Somefarwhere, about a guy who goes to an unnamed Middle Eastern country to rescue his army boyfriend, and along the way gets tangled up in a plot not even the writer/director understands. Come along with us on this journey, but don't expect to understand it any better than we do.",
+        "topics": [
+            "The Iraq-Pakistan border",
+            "Terrible stand-up comedy",
+            "Trying to intimidate someone in a room equipped with a clapper",
+            "No Shirt, No Shoes, No Service",
+            "The shocker",
+            "Everyone go watch the movie Society"
+        ],
+        "links": [],
+        "date": "August 16th, 2021",
+        "duration": "1:27:01",
+        "src": "https://media.zencast.fm/we-read-movies/52.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
     }
 ]
