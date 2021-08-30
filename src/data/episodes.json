@@ -1307,5 +1307,31 @@
             "hangsDong": false
         },
         "mini": false
+    },
+    {
+        "num": 53,
+        "title": "Steam Room Stories: The Movie",
+        "slug": "steam-room-stories",
+        "description": "This week, we watched the 2019 movie Steam Room Stories: The Movie, based on the long running queerbait-y web series of the same name. When an evil cosmetics mogul (Tracy Lords) tries to take over a steam room that's also the legendary Fountain of Youth, it's up to five studs, as stupid as they are sexy, to save the day.",
+        "topics": [
+            "Boys Gone Wild",
+            "The \"good\" part of the dick",
+            "Wet t-shirt contests",
+            "Comedy",
+            "Porn parody names"
+        ],
+        "links": [],
+        "date": "August 30th, 2021",
+        "duration": "1:28:11",
+        "src": "https://media.zencast.fm/we-read-movies/53.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/53-steam-room-stories.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
