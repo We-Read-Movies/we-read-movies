@@ -1333,5 +1333,33 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 54,
+        "title": "Boy Culture",
+        "slug": "boy-culture",
+        "description": "This week, because the long awaited sequel series is supposed to be coming out any day now, we talked about the 2006 film Boy Culture. Set in our hometown of Seattle, the film centers around X, an $5000/hr male prostitute who slut shames his friends, is casually racist and generally sucks. Can he find love with his roommate, even though he doesn't deserve it? Let's find out!",
+        "topics": [
+            "Ghost nut",
+            "The economics of extremely high-end escorts",
+            "Commercials about pooping",
+            "Being sexually aroused by tragedy",
+            "Seattle businesses that don't exist anymore",
+            "A tight five on Mr Peanut",
+            "What if McGruff the Crime Dog teamed up with a bird to solve murders?"
+        ],
+        "links": [],
+        "date": "September 13th, 2021",
+        "duration": "1:21:45",
+        "src": "https://media.zencast.fm/we-read-movies/54.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/54-boy-culture.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
