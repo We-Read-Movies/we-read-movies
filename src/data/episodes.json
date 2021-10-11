@@ -1384,5 +1384,35 @@
             "hangsDong": true
         },
         "mini": false
+    },
+    {
+        "num": 56,
+        "title": "Spiral",
+        "slug": "spiral",
+        "description": "This week, getting in the Halloween spirit early, we watched the 2019 horror movie Spiral. When a former club kid (Jeffrey Bowyer-Chapman) moves to the suburbs with his wet blanket husband, he uncovers a cult that plans to use homophobia to live forever. Also he meets a ghost who hands him some video tapes that explain the whole plot but that he refuses to watch.",
+        "topics": [
+            "Gay Knockoff Transformers",
+            "The strange racket that is Neapolitan pizza",
+            "Butthole bleaching",
+            "What do straight people like?",
+            "Rob Ford",
+            "#WhoIsTheGuyOnTheBridge"
+        ],
+        "links": [{
+            "text": "Rob Ford and his brother",
+            "url": "https://external-preview.redd.it/dNIPNmzS6rv35wISMmLVTYqIcaDmI4rzlzLjbz8kb60.jpg?auto=webp&s=f01a322eaa2eb46d072c0db36223d486f4a735b8"
+        }],
+        "date": "October 11th, 2021",
+        "duration": "1:19:17",
+        "src": "https://media.zencast.fm/we-read-movies/56.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/56-spiral.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
