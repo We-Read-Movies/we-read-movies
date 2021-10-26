@@ -1414,5 +1414,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 57,
+        "title": "Cthulhu",
+        "slug": "cthulhu",
+        "description": "This week, we watched the 2007 film Cthulhu, a very loose gay retelling of the HP Lovecraft story,The Shadow Over Innsmouth. With an ambitious story, over the top acting, some truly terrible wigs and Tori Spelling, how could it not be great?",
+        "topics": [
+            "Boxes full of hands",
+            "How many babies could you beat up?",
+            "More sexy Pokemon",
+            "The Cult of The Jerk Shack",
+            "Chris read the book and he's not gonna shut up about it",
+            "Spoilers, but Cthulhu never shows up"
+        ],
+        "links": [],
+        "date": "October 25th, 2021",
+        "duration": "1:24:13",
+        "src": "https://media.zencast.fm/we-read-movies/57.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/57-cthulhu.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
