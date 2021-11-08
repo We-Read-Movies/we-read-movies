@@ -1441,5 +1441,28 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 58,
+        "title": "Homewrecker",
+        "slug": "homewrecker",
+        "description": "This week, we talked about the 2009 movie Homewrecker, a movie where the cover prominently advertises that it features Tiffany from the Eating Out Series. When a wannabe actor infiltrates the home of two gay tv producers, he'll do everything he can to be in their next show, including a very convoluted and incoherent plot to break them up or something. Can they thwart his evil advances? Can they finish the concept for their new reality show? Will Tiffany actually make an appearance? Let's find out!",
+        "topics": [
+            "Tubi ads",
+            "Who likes ribbed condoms?",
+            "Having sex through a hole in a sheet",
+            "What is a reality show?",
+            "Let's all hate on James Corden a little",
+            "We body shame people more attractive than us"
+        ],
+        "links": [],
+        "date": "November 8th, 2021",
+        "duration": "1:23:04",
+        "src": "https://media.zencast.fm/we-read-movies/58.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
     }
 ]
