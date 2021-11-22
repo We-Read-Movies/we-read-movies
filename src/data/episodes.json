@@ -1463,6 +1463,36 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/58-homewrecker.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 59,
+        "title": "On the Other Hand, Death",
+        "slug": "on-the-other-hand-death",
+        "description": "This week, we watched the third in the Donald Strachey mystery movies, On the Other Hand Death. When a greedy land developer plans to do something confusingly illegal, it's up to the world's greatest gay detective Donald Strachey to save a lesbian couple from being run out of town. Can he solve the case, or will they have to move to Vermont and open up a B&B (which is their actual plan)?",
+        "topics": [
+            "Love dice",
+            "A Libertarian Christmas Carol",
+            "Why do elephants have trunks and not tentacles?",
+            "How does Kel feel about Keenan's success?",
+            "Stephen King books are weird"
+        ],
+        "links": [],
+        "date": "November 22nd, 2021",
+        "duration": "1:06:40",
+        "src": "https://media.zencast.fm/we-read-movies/59.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/59-on-the-other-hand-death.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
