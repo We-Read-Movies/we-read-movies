@@ -1494,5 +1494,32 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 60,
+        "title": "Everything is Free",
+        "slug": "everything-is-free",
+        "description": "This week, we talked about the 2017 movie Everything is Free. When Ivan, an American painter living in Colombia, is visited by his straight best friend, Cole, and Cole's supposedly straight younger brother, Christian, Ivan and Christian start confusingly falling in love. Also they meet a cult leader who worms his way into their house, but that doesn't really matter to the plot that much.",
+        "topics": [
+            "\"Do you make me horny?\"",
+            "Sex sounds",
+            "Chris names some nu metal bands he knows",
+            "Spit as lube",
+            "We used to think straight people existed",
+            "The Twilight Zone"
+        ],
+        "links": [],
+        "date": "December 6th, 2021",
+        "duration": "1:14:51",
+        "src": "https://media.zencast.fm/we-read-movies/60.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/60-everything-is-free.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
