@@ -1521,5 +1521,31 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 61,
+        "title": "The Christmas Setup",
+        "slug": "the-christmas-setup",
+        "description": "This week, we watched the 2020 Lifetime movie,The Christmas Setup. When an overbearing mother (Fran Drescher) sets her son up with a handsome millionaire computer genius who invented an app that can tell the future, he's initially annoyed. But soon he comes to realize that this guy is actually kind of a catch. Also they save an abandoned train station that's in danger of being torn down to make room for something that would actually help people.",
+        "topics": [
+            "NIMBY-ism",
+            "Nancy Reagan's unparallelled throat game",
+            "Chris's ex wrote a song praising his butt",
+            "Drew's mother hasn't seen a movie since 1988",
+            "Eric has a lot of opinions about sandwiches"
+        ],
+        "links": [],
+        "date": "December 20th, 2021",
+        "duration": "1:09:15",
+        "src": "https://media.zencast.fm/we-read-movies/61.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/61-the-christmas-setup.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
