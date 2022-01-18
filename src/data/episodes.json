@@ -1589,5 +1589,30 @@
         "movieInfo": {
             "hangsDong": true
         }
+    },
+    {
+        "num": 64,
+        "title": "Complete Strangers",
+        "slug": "strapped",
+        "description": "This week, we watched the 2020 movie Complete Strangers. When a guy with retrograde amnesia meets a guy who is very clearly trying to murder him, they instantly fall in love. What follows makes even less sense than that premise. Will our hero survive? Will our podcast hosts?",
+        "topics": [
+            "Pornhub Ratings",
+            "Gaslighting",
+            "Romantic baths are disgusting",
+            "We're super bad at accents, but we're better than the actors are",
+            "Gay Tommy Wiseau"
+        ],
+        "links": [],
+        "date": "January 17th, 2022",
+        "duration": "1:14:04",
+        "src": "https://media.zencast.fm/we-read-movies/64.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/64-complete-strangers.jpg",
+            "artist": "Isabel Anderson"
+        }
     }
 ]
