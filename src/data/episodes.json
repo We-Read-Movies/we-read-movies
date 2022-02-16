@@ -1634,6 +1634,36 @@
         "movieInfo": {
             "hangsDong": true
         },
+        "cover": {
+            "image": "../images/episode-covers/65-dagostino.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 66,
+        "title": "Wedding Wars",
+        "slug": "wedding-wars",
+        "description": "This week, we watched the 2006 John-Stamos-plays gay TV movie Wedding Wars. When a gay wedding planner finds out that his brother is deeply homophobic, he organizes a gay strike that spoiler alert goes nowhere and does nothing. But we've got a star studded cast at least!",
+        "topics": [
+            "Will and Grace",
+            "The many problems plaguing the town of Derry, Maine",
+            "Republican campaign ads",
+            "The very on the nose naming of Gay dot com",
+            "Marriage"
+        ],
+        "links": [],
+        "date": "February 14th, 2022",
+        "duration": "1:15:58",
+        "src": "https://media.zencast.fm/we-read-movies/66.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/66-wedding-wars.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
