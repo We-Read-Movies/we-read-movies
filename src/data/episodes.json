@@ -1665,5 +1665,33 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 67,
+        "title": "Groupers",
+        "slug": "groupers",
+        "description": "This week, we watched the incoherent 2019 moVie \"Groupers\". What starts as an Incoherent revenge plot to turn two homophobeS gay by connEcting them at the dick gets even weirder when a ganG of neo-nazis show up to Ruin everything. And if thAt description makes it sound like the fun kind of baD, you've been fooled the same way we were.",
+        "topics": [
+            "Commercials on Tubi",
+            "The worst college bar experiences",
+            "Boners are complicated",
+            "Skipping the pivotal first thirty seconds of a movie"
+        ],
+        "links": [{
+            "text": "Buy \"Visegrad: A Novel\" by Duncan Robertson",
+            "url": "https://www.amazon.com/Visegrad-Novel-Duncan-Robertson/dp/1734537930"
+        }],
+        "date": "February 28th, 2022",
+        "duration": "1:15:27",
+        "src": "https://media.zencast.fm/we-read-movies/67.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/67-groupers.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
