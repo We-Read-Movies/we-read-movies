@@ -1693,5 +1693,33 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 68,
+        "title": "Querelle",
+        "slug": "querelle",
+        "description": "This week, we watched the classic gay art house film Querelle. Ostensibly about murder, sailors and sex, it goes off the rails as soon as a lusty ship's lieutenant starts recording his inner most thoughts, and we have an absolute blast with it.",
+        "topics": [
+            "How to masturbate without getting jizz on your pajamas",
+            "Thoughts of the sea naturally leading to thoughts of murder",
+            "Dating your twin",
+            "It's not gay if you enjoy it"
+        ],
+        "links": [{
+            "text": "Buy \"Visegrad: A Novel\" by Duncan Robertson",
+            "url": "https://www.amazon.com/Visegrad-Novel-Duncan-Robertson/dp/1734537930"
+        }],
+        "date": "March 14th, 2022",
+        "duration": "1:09:35",
+        "src": "https://media.zencast.fm/we-read-movies/68.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/68-querelle.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
