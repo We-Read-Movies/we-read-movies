@@ -1721,5 +1721,38 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 69,
+        "title": "Red Ribbon Blues",
+        "slug": "red-ribbon-blues",
+        "description": "This week, we watched Red Ribbon Blues, a 1996 HIV medication heist film starring Paul Mercurio, Lipsinka, Debi Mazar, and RuPaul, but don't get too excited by the cast because it's not very good. It does, however, introduce us to a certain cop named Detective Bones.",
+        "topics": [
+            "Air Bud as a cop",
+            "Batman villains are weird",
+            "What could these red ribbons mean",
+            "We're making an art wish list",
+            "The unfortunate history of the appetite suppressing chocolate called Ayds"
+        ],
+        "links": [{
+            "text": "Duncan Robertson presents Visegrad at Capitol Cider",
+            "url": "https://www.thirdplacebooks.com/event/duncan-robertson-visegrad-capitol-hill-cider"
+        },
+        {
+            "text": "Buy \"Visegrad: A Novel\" by Duncan Robertson",
+            "url": "https://www.amazon.com/Visegrad-Novel-Duncan-Robertson/dp/1734537930"
+        }],
+        "date": "March 28th, 2022",
+        "duration": "1:28:23",
+        "src": "https://media.zencast.fm/we-read-movies/69.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/69-red-ribbon-blues.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
