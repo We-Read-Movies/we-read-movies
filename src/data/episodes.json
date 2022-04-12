@@ -1754,5 +1754,27 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 70,
+        "title": "Death Drop Gorgeous",
+        "slug": "death-drop-gorgeous",
+        "description": "This week, we watched the 2020 movie Death Drop Gorgeous. Not to confused with that other movie with a similar name, this one is about a slasher stalking the streets of gay Providence, RI. Can the case be solved by a down on his luck bartender, or an aging drag queen, or a pair of detectives one of whom looks like he's a literal baby? Or is one of the aforementioned people secretly the killer? Let's find out!",
+        "topics": [
+            "That episode of Star Trek where they all get horny for each other",
+            "Shaving pubic hair",
+            "Glory holes and what might be behind them",
+            "Chris Describes a Porno",
+            "Way too much Drag Race talk even for us"
+        ],
+        "links": [],
+        "date": "April 11th, 2022",
+        "duration": "1:22:27",
+        "src": "https://media.zencast.fm/we-read-movies/70.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
     }
 ]
