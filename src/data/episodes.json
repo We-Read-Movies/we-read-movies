@@ -1775,6 +1775,39 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/70-death-drop-gorgeous.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 71,
+        "title": "B&B",
+        "slug": "b-and-b",
+        "description": "This week, the very funny and excellent Duncan Robertson (author of Visegrad: A Novel) joined us to talk about the 2017 film B&B. When husbands Marc and Fred return to the B&B they were kicked out of one year ago for being gay, they find themselves embroiled in a murder plot so weird that even after talking about it for several hours, we're still a little hazy on the details. Will they survive the night? Is that hot Russian gangster there to kill them or bang them? What kind of a B&B doesn't have wifi and why would anyone stay there? Let's find out!",
+        "topics": [
+            "The national sport of dogging",
+            "Dad dick",
+            "Label makers",
+            "How many drinks would it take to turn a guy gay?",
+            "The Chuck Tingle Tabletop Roleplaying Game"
+        ],
+        "links": [{
+            "text": "Buy \"Visegrad: A Novel\" by Duncan Robertson",
+            "url": "https://www.barnesandnoble.com/w/visegrad-duncan-robertson/1139320295"
+        }],
+        "date": "April 25th, 2022",
+        "duration": "1:22:08",
+        "src": "https://media.zencast.fm/we-read-movies/71.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/71-b-and-b.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     }
 ]
