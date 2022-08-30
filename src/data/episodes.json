@@ -1972,6 +1972,10 @@
         "movieInfo": {
             "hangsDong": false
         },
+        "cover": {
+            "image": "../images/episode-covers/78-house-of-adam.jpg",
+            "artist": "Isabel Anderson"
+        },
         "mini": false
     },
     {
@@ -1992,6 +1996,10 @@
         "hosting": "zencast",
         "movieInfo": {
             "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/79-ice-blues.jpg",
+            "artist": "Isabel Anderson"
         },
         "mini": false
     }
