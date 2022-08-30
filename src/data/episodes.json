@@ -1951,5 +1951,48 @@
             "hangsDong": false
         },
         "mini": false
+    },
+    {
+        "num": 78,
+        "title": "House of Adam",
+        "slug": "house-of-adam",
+        "description": "This week, we watched the 2006 movie House of Adam. Done by the same director as past episode D'Agostino, this movie purports to be a gay ghost story, but the ghost doesn't show up for until the last 5 minutes or so. Instead we get about 40 minutes of corporate intrigue, some straight people who are very game for violating the Geneva Conventions in the name of justice, and an unintentionally hilarious hate crime.",
+        "topics": [
+            "What is Detective School?",
+            "Chris describes a porno",
+            "Sexy ghosts",
+            "Eric is able to remember the name of Kyra Sedgwick",
+            "No, seriously, what is Detective School?"
+        ],
+        "links": [],
+        "date": "August 1st, 2022",
+        "duration": "1:20:40",
+        "src": "https://media.zencast.fm/we-read-movies/78.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
+    },
+    {
+        "num": 79,
+        "title": "Ice Blues",
+        "slug": "ice-blues",
+        "description": "This week, we watched the fourth and final (until we get that Kickstarter off the ground) movie in the Donald Strachey mysteries, Ice Blues. The most comprehensible and therefore the least fun of the series, it's also his least gay, but don't worry, we'll still find plenty to talk about, like how much killing a man with his bare hands seems to turn Strachey's husband on.",
+        "topics": [
+            "Why do bearer bonds exist?",
+            "What would you name your lawfirm?",
+            "This title doesn't make any sense",
+            "Pizza crime"
+        ],
+        "links": [],
+        "date": "August 15th, 2022",
+        "duration": "1:36:49",
+        "src": "https://media.zencast.fm/we-read-movies/79.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "mini": false
     }
 ]
