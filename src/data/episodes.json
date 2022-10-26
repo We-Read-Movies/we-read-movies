@@ -2002,5 +2002,69 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 80,
+        "title": "At the End of the Day",
+        "slug": "at-the-end-of-the-day",
+        "description": "This week, we watched the 2018 gay christian movie At the End of the Day, about a bigot who learns, through subterfuge and the power of love, to be slightly less bigotted. Featuring inappropriate pranks and even more inappropriate eating, the movie left us with a couple of questions, like \"is this even a gay movie?\"",
+        "topics": [
+            "What's Kyle's whole deal?",
+            "Why is Bruce a gay name?",
+            "The correct pronunciation of gif",
+            "Monster energy drink is not one of god's creations"
+        ],
+        "links": [],
+        "date": "September 19th, 2022",
+        "duration": "1:34:47",
+        "src": "https://media.zencast.fm/we-read-movies/80.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/80-at-the-end-of-the-day.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 81,
+        "title": "They/Them (with Adam Sass)",
+        "slug": "they-them",
+        "description": "This week, for Spooky Season we watched the recent LGBTQ+ Kevin Bacon horror movie They/Them, about a killer who's stalking a gay conversion camp. Except, it's barely a horror movie, since the kids are in no danger, and the only people getting slashed are the jerks who run the camp. And because it bares a certain similarity to his book, Surrender Your Sons, we invited Adam Sass to come talk about it with us.",
+        "topics": [
+            "Tim Curry's hatred of Scrappy Doo",
+            "Shirley Markowitz",
+            "DoesTheDogDie.com",
+            "Gay sex angles",
+            "Victorian babydoll heads on grown men's bodies"
+        ],
+        "links": [
+            {
+                "text": "AdamSassBooks.com",
+                "url": "https://www.adamsassbooks.com/"
+            },
+            {
+                "text": "Buy \"The 99 Boyfriends of Micah Summers\" by Adam Sass",
+                "url": "https://bookshop.org/books/the-99-boyfriends-of-micah-summers/9780593464786"
+            },
+            {
+                "text": "Buy \"Surrender Your Sons\" by Adam Sass",
+                "url": "https://bookshop.org/books/surrender-your-sons/9781635830613"
+            }            
+        ],
+        "date": "October 10th, 2022",
+        "duration": "1:32:59",
+        "src": "https://media.zencast.fm/we-read-movies/81.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/81-they-them.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
