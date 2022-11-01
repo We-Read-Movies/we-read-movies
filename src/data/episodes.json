@@ -2066,5 +2066,30 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 82,
+        "title": "Nightmare on Elm Street 2: Freddy's Revenge",
+        "slug": "nightmare-on-elm-street-2-freddys-revenge",
+        "description": "It's every gay's favorite holiday, Halloween! So to get into the spooky spirit we watched the not-explicitly-gay-but-oh-so-gay horror movie Nightmare on Elm Street 2: Freddy's Revenge. Featuring several naked male butts, a very sexual shower death, and rubber play sheets, this is perhaps the gayest movie we've ever done.",
+        "topics": [
+            "What does Freddy Kruger's dick look like? ",
+            "Birds are a weird pet to have",
+            "What exactly are Pokemon?",
+            "The sweatiest people in Hollywood"
+        ],
+        "links": [],
+        "date": "October 31st, 2022",
+        "duration": "1:24:33",
+        "src": "https://media.zencast.fm/we-read-movies/82.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/82-nightmare-2.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
