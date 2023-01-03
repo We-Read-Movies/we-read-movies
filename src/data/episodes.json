@@ -2091,5 +2091,81 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 83,
+        "title": "My Fake Boyfriend",
+        "slug": "my-fake-boyfriend",
+        "description": "This week, we watched the recent Buzzfeed Productions movie My Fake Boyfriend, an incoherent tale of what happens when you make a fake boyfriend for social media, but afterwards realize you want to be with a handsome chef whose arms are muscular beyond belief. Also, it asks the very important question, is there such a thing as a celebrity stunt man?",
+        "topics": [
+            "The suspicious death of Swedish economist Dag Hammarskjöld ",
+            "Homemade soup",
+            "How to tell your mom you're just \"regular gay\" without disappointing her",
+            "Edibles are no joke y'all"
+        ],
+        "links": [],
+        "date": "November 21st, 2022",
+        "duration": "1:30:52",
+        "src": "https://media.zencast.fm/we-read-movies/83.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/83-my-fake-boyfriend.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 84,
+        "title": "A Wedding Most Strange",
+        "slug": "a-wedding-most-strange",
+        "description": "This week, we talked for a solid three and a half hours about the 85 minute long movie A Wedding Most Strange, and then Chris painstakingly took out a bunch of weird tangents to cut it down to the length it is now. The movie was so very deeply and maniacally weird that it just broke our brains. Listen along to our descent into madness.",
+        "topics": [
+            "Charmed",
+            "Cushion Fluffing",
+            "What we remember about Friends",
+            "Drag queens with the worst fashions",
+            "What if this movie starred the lead singer of The Cure?"
+        ],
+        "links": [],
+        "date": "December 5th, 2022",
+        "duration": "1:42:57",
+        "src": "https://media.zencast.fm/we-read-movies/84.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/84-a-wedding-most-strange.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 85,
+        "title": "Kiss Me Deadly",
+        "slug": "kiss-me-deadly",
+        "description": "This week, we watched the Shannen Doherty and Robert Gant gay spy thriller Kiss Me Deadly, produced for Here TV. Well, one of us did. The other two watched a straight-washed recut of this movie aired at appearing on other networks, and it takes us a really long time to figure out that we watched basically a different movie.",
+        "topics": [
+            "Eric is finally finished with Charmed",
+            "Why do people think allergies aren't real?",
+            "What exactly IS amnesia?",
+            "Everything should be part of the Kenny Kwon-iverse"
+        ],
+        "links": [],
+        "date": "December 26th, 2022",
+        "duration": "1:41:46",
+        "src": "https://media.zencast.fm/we-read-movies/85.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/85-kiss-me-deadly.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
