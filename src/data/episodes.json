@@ -2167,5 +2167,109 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 86,
+        "title": "Dashing in December",
+        "slug": "dashing-in-december",
+        "description": "This week, we're late in discussing the Hallmark original Christmas movie Dashing in December. It's your standard Hallmark fare, guy from the big city tries to shut down the struggling horse ranch his mom (Andie MacDowell) owns, only to fall in love with her employee. We know, we know, we meant to do it before Christmas, but stuff happened.",
+        "topics": [
+            "The movie Hot to Trot",
+            "The Hallmark/Great American Family feud",
+            "Gender neutral names",
+            "CEOs on coke"
+        ],
+        "links": [],
+        "date": "January 15th, 2023",
+        "duration": "1:18:22",
+        "src": "https://media.zencast.fm/we-read-movies/86.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/86-dashing-in-december.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 87,
+        "title": "Socket",
+        "slug": "socket",
+        "description": "This week, we watched the very strange and David Cronenberg-ian 2007 movie Socket. After he's struck by lightning and develops electricity vampire powers, a doctor joins up with a group of other electricity vampires for a party-and-play metaphor that ends in multiple murders. Does it make sense? Not really. Does it involve some plug and socket-related body horror? You better believe it does.",
+        "topics": [
+            "Butt-Chugging",
+            "Chris describes a porno",
+            "Underwear designed for people with small butts",
+            "Porn parodies"
+        ],
+        "links": [],
+        "date": "January 30th, 2023",
+        "duration": "1:19:20",
+        "src": "https://media.zencast.fm/we-read-movies/87.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/87-socket.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 88,
+        "title": "Too Much Sun",
+        "slug": "too-much-sun",
+        "description": "This week, we watched the 1990 Eric Idle, Andrea Martin, Robert Downey Jr., and Ralph Macchio movie Too Much Sun. After a murdered millionaire's will stipulates that one of his gay children will have to produce a child of their own, they'll have to engage in some wacky farcical adventures to get their inheritance. Will they succeed? Does Eric Idle play gay offensively? Is Robert Downey Jr on coke for the whole movie? Does a gay guy do oral on a woman? Let's find out!",
+        "topics": [
+            "Sex with a ghost",
+            "Sex with a virgin",
+            "We used to think gloryholes existed",
+            "Why did women find Michael Douglas attractive? ",
+            "How much money would it take for you to have sex with a woman?"
+        ],
+        "links": [],
+        "date": "February 12, 2023",
+        "duration": "1:42:24",
+        "src": "https://media.zencast.fm/we-read-movies/88.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/88-too-much-sun.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 89,
+        "title": "Eating Out: Drama Camp (with Mike and Kyle of Gayish)",
+        "slug": "eating-out-drama-camp",
+        "description": "This week, we invited our good friends Mike and Kyle back to watch the fourth and most excruciating of the Eating Out movies: Drama Camp. A camp of queer people out in the woods, secret identities, bizarre rules against sex? It sounds like the hit Kevin Bacon movie They/Them, but no, the only thing this movie slashed was our free time. Come join us for the Q. Allan Brocka movie that made us say \"you know, now that I think about it, the second one wasn't that bad.\"",
+        "topics": [
+            "Straight scholarships",
+            "Chloë Sevigny",
+            "Shakespearean adaptations",
+            "What if cuckold porn followed the biological definition of the word?"
+        ],
+        "links": [{
+            "text": "Gayish Podcast",
+            "url": "https://www.gayishpodcast.com/"
+        }],
+        "date": "March 6th, 2023",
+        "duration": "1:28:44",
+        "src": "https://media.zencast.fm/we-read-movies/89.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/89-eating-out-drama-camp.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
