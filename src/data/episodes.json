@@ -2271,5 +2271,54 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 90,
+        "title": "I Now Pronounce You Chuck and Larry",
+        "slug": "chuck-and-larry",
+        "description": "This week, for the podcast's three-year birthday, after threatening to do it for so long, we decided to torture ourselves by watching the Kevin James and Adam Sandler movie I Now Pronounce You Chuck and Larry. That's right we sat through every minute of this TWO HOUR LONG movie (that's about an hour and a half of fat jokes) so that you don't have to. CONTENT WARNING: This movie uses sexual assault as a punchline a lot, and we discuss the movie doing that.",
+        "topics": [
+            "The many better scripts of Alexander Payne",
+            "What's the deal with Nick Swardson?",
+            "Fellas, is it gay to have good hip flexibility?"
+        ],
+        "links": [],
+        "date": "April 3rd, 2023",
+        "duration": "1:35:14",
+        "src": "https://media.zencast.fm/we-read-movies/91.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/90-chuck-and-larry.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 91,
+        "title": "Swallowed",
+        "slug": "swallowed",
+        "description": "This week, we watched the 2022 body horror (or so we were led to believe) movie Swallowed. When a gay guy and his best straight friend get roped into being drug mules, they find out that the condoms full of drugs they swallowed to cross the Canadian border were actually weirdo bug eggs that are hatching inside of them. And then there's an extended fisting scene.",
+        "topics": [
+            "The chemical makeup of squirt",
+            "Licking toads",
+            "Sex rooms",
+            "Fist shaped foods"
+        ],
+        "links": [],
+        "date": "April 17th, 2023",
+        "duration": "1:22:33",
+        "src": "https://media.zencast.fm/we-read-movies/92.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/91-swallowed.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 ]
