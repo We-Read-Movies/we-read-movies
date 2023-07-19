@@ -2320,5 +2320,119 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 92,
+        "title": "Back Soon",
+        "slug": "back-soon",
+        "description": "This week, we watched the 2007 Rob Williams (not to be confused with Robin Williams) movie Back Soon. When a straight drug dealer gets a horny dead lady's ghost inside his body, he turns gay for her widower, who turns gay for him too through the power of sleepwalking. It's a very confusing plot, but it's also very boring.",
+        "topics": [
+            "The difference between Ding Dongs, HoHos and Cupcakes (hint, there isn't one)",
+            "Weird food combinations",
+            "\"Gang banger hair\"",
+            "Exposition dialogue"
+        ],
+        "links": [],
+        "date": "May 1st, 2023",
+        "duration": "1:33:27",
+        "src": "https://media.zencast.fm/we-read-movies/93.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "mini": false
+    },
+    {
+        "num": 93,
+        "title": "Love or Whatever",
+        "slug": "love-or-whatever",
+        "description": "This week, we watched the 2012 rom(?)-com(?) Love Or Whatever, the film that dared to ask the question, \"can bi people be trusted?\" And that also dares to answer the question, \"no. They cannot.\" Also, it dares to ask the question, \"what's Meredith from the Office been up?\" And the answer to that question will shock you.",
+        "topics": [
+            "Rumplestiltskin's name",
+            "People who think puppets are people",
+            "How many sex positions are there, exactly?",
+            "The Same Girl song doesn't make any sense"
+        ],
+        "links": [],
+        "date": "May 23rd, 2023",
+        "duration": "1:35:02",
+        "src": "https://media.zencast.fm/we-read-movies/94.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "mini": false
+    },
+    {
+        "num": 94,
+        "title": "Triple Crossed",
+        "slug": "triple-crossed",
+        "description": "This week, after some mild technical difficulties, we're back! And we watched the 2013 gay hitman flick Triple Crossed, starring and directed by the very good sport friend of the pod Sean Paul Lockhart. When an ex-marine is given a job to kill the ex boyfriend of his friend and sometimes lover... you know what? This plot is incomprehensibe. But we had fun with it anyway.",
+        "topics": [
+            "Oroborous porn",
+            "The laws around faking your own death",
+            "Gay LFO",
+            "How to do crimes badly"
+        ],
+        "links": [],
+        "date": "June 12th, 2023",
+        "duration": "1:44:23",
+        "src": "https://media.zencast.fm/we-read-movies/95.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "mini": false
+    },
+    {
+        "num": 95,
+        "title": "Fire Island (but not THAT one)",
+        "slug": "fire-island-but-not-that-one",
+        "description": "This week, we watched the 2023 slasher movie Fire Island, not to be confused with the 2022 rom-com Fire Island. It may or may not be a sequel to past We Read Movies flick Last Ferry (it is), and it may or may not even be a gay movie, but we have fun with it.",
+        "topics": [
+            "Sequel naming conventions",
+            "Magneto wasn't real",
+            "What straight people think drag is",
+            "Too much SVU?"
+        ],
+        "links": [],
+        "date": "July 3rd, 2023",
+        "duration": "1:33:34",
+        "src": "https://media.zencast.fm/we-read-movies/96.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/95-fire-island.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 96,
+        "title": "Deadly Skies",
+        "slug": "deadly-skies",
+        "description": "This week, we watched the 2006 made for HereTV movie Deadly Skies, starring future neo-con Antonio Sabato Jr. When a planet killer asteroid threatens to crash into the Earth, it's up to a plucky band of scientists and two gay Air Force guys to save the world by turning on a secret laser everyone knows about but no one wants them to use. This is another HereTV movie that they made with a gay version and a straight version, although this time we all got on the same page and watched the gay version.",
+        "topics": [
+            "We tantalize Drew by describing some bad tattoos we've seen recently",
+            "Social media",
+            "The conservative bent of HereTV",
+            "Where is the butthole?"
+        ],
+        "links": [],
+        "date": "July 17th, 2023",
+        "duration": "1:24:32",
+        "src": "https://media.zencast.fm/we-read-movies/97.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/96-deadly-skies.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
+
 ]
