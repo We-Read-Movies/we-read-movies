@@ -2433,6 +2433,85 @@
             "artist": "Isabel Anderson"
         },
         "mini": false
+    },
+    {
+        "num": 97,
+        "title": "Love, Simon",
+        "slug": "love-simon",
+        "description": "This week, we watched the 2018 young adult film Love, Simon, a movie that's about 50% emails. When a closeted gay teen is blackmailed with emails that he sent to another closeted gay teen, it leads to a dramatic coming out that will have everyone in his life going \"Oh, okay. That's fine.\"",
+        "topics": [
+            "How many emails do I have to wait before I send a dick pic?",
+            "Bullying bullies",
+            "Cabaret",
+            "Internalized homophobia"
+        ],
+        "links": [{
+            "text": "Glowmoon Doll by Isabel Anderson",
+            "url": "https://glowmoondoll.com/"
+        }],
+        "date": "July 31st, 2023",
+        "duration": "1:42:39",
+        "src": "https://media.zencast.fm/we-read-movies/98.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/97-love-simon.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 98,
+        "title": "The Men Next Door",
+        "slug": "the-men-next-door",
+        "description": "This week, we watched the 2012 Rob Williams film The Men Next Door. When a sad sack without any real friends starts dating both a father and his son at the same time, he has to make a choice, and it'll involve retelling the story to four different people in great detail.",
+        "topics": [
+            "Cake blindness",
+            "So much incest",
+            "Chris describes The Green Lantern is Gay!: An XXX Porn Parody",
+            "Juggler Bottoms"
+        ],
+        "links": [],
+        "date": "August 14th, 2023",
+        "duration": "1:29:15",
+        "src": "https://media.zencast.fm/we-read-movies/99.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": true
+        },
+        "cover": {
+            "image": "../images/episode-covers/98-the-men-next-door.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
+    },
+    {
+        "num": 99,
+        "title": "Red, White and Royal Blue",
+        "slug": "red-white-and-royal-blue",
+        "description": "This week, we (along with 6 million straight women) watched the 2023 movie Red, White and Royal Blue. A Rom-Com (but hold the com, please) about the son of a US president falling in love with the Prince of England. Despite being about gay people, it seems to have been made exclusively for a straight audience, and boy do we have some thoughts about that.",
+        "topics": [
+            "Boy, our politicians are old",
+            "Accents",
+            "Eric hates on the British",
+            "Where the butthole is",
+            "The President and Vice President should be best friends"
+        ],
+        "links": [],
+        "date": "August 28th, 2023",
+        "duration": "1:14:42",
+        "src": "https://media.zencast.fm/we-read-movies/100.mp3",
+        "hosting": "zencast",
+        "movieInfo": {
+            "hangsDong": false
+        },
+        "cover": {
+            "image": "../images/episode-covers/99-red-white-and-royal-blue.jpg",
+            "artist": "Isabel Anderson"
+        },
+        "mini": false
     }
 
 ]
